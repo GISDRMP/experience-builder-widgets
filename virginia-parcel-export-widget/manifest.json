@@ -1,0 +1,21 @@
+{
+  "name": "virginia-parcel-export-widget",
+  "label": "Geojson Export Widget Virginia",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.17.0",
+  "author": "Ravneet",
+  "description": "Export selected parcels in Virginia coordinate systems as SHP, KMZ, or DXF",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasConfig": false
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 300,
+    "height": 400
+  }
+}
