@@ -1,0 +1,79 @@
+{
+  "name": "topo_edit_workbench_v7",
+  "label": "Topo Edit Workbench v7 Laptop Responsive",
+  "type": "widget",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "version": "1.17.3",
+  "exbVersion": "1.17.0",
+  "author": "Esri R&D Center Beijing + OpenAI custom workbench extension",
+  "description": "Custom topology editing workbench v7 for Experience Builder with laptop responsive scrolling, persistent lasso vertex deletion, selectable revert history, icon-driven tools, built-in trace toggle for reshape, preview/apply workflows, configurable KPI monitors, selection export, and freehand or click-by-click polygon analysis drawing.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "messageActions": [],
+  "defaultSize": {
+    "width": 400,
+    "height": 400
+  },
+  "properties": {
+    "coverLayoutBackground": true
+  },
+  "dataActions": [
+    {
+      "name": "edit",
+      "label": "Topo Edit Workbench v7 Laptop Responsive",
+      "uri": "data-actions/edit",
+      "icon": "runtime/assets/icon.svg"
+    }
+  ],
+  "extensions": [
+    {
+      "name": "appConfigOperations",
+      "point": "APP_CONFIG_OPERATIONS",
+      "uri": "tools/app-config-operations"
+    }
+  ],
+  "translatedLocales": [
+    "en",
+    "ar",
+    "bg",
+    "bs",
+    "ca",
+    "cs",
+    "da",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "he",
+    "hr",
+    "hu",
+    "id",
+    "it",
+    "ja",
+    "ko",
+    "lt",
+    "lv",
+    "nb",
+    "nl",
+    "pl",
+    "pt-br",
+    "pt-pt",
+    "ro",
+    "ru",
+    "sk",
+    "sl",
+    "sr",
+    "sv",
+    "th",
+    "tr",
+    "zh-cn",
+    "uk",
+    "vi",
+    "zh-hk",
+    "zh-tw"
+  ]
+}

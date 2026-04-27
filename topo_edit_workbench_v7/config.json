@@ -1,0 +1,31 @@
+{
+  "layersConfig": [],
+  "editMode": "GEOMETRY",
+  "selfSnapping": true,
+  "featureSnapping": true,
+  "defaultSelfEnabled": true,
+  "defaultFeatureEnabled": true,
+  "defaultSnapLayers": [],
+  "tooltip": true,
+  "templateFilter": true,
+  "liveDataEditing": false,
+  "initialReshapeMode": false,
+  "relatedRecords": true,
+  "description": "",
+  "noDataMessage": "",
+  "snapSettingMode": "FLEXIBLE",
+  "enableTopologyTools": true,
+  "defaultGeometryRuntimeMode": "TOPOLOGY",
+  "enabledTopologyTools": [
+    "SPLIT",
+    "MERGE",
+    "TRACE",
+    "AUTOCOMPLETE",
+    "RESHAPE",
+    "VERTICES",
+    "FREEHAND"
+  ],
+  "kpiMonitors": [],
+  "exportPlaceholderLayerId": "",
+  "exportFileNamePrefix": "final_widget_export"
+}
