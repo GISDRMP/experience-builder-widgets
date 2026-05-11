@@ -1,0 +1,12 @@
+{
+  "routeIdField": "",
+  "routeDisplayField": "",
+  "lrsNetworkLayerUrl": "",
+  "maxSnapDistance": 30,
+  "decimalPrecision": 3,
+  "measureToMilepointFactor": 1,
+  "useCurrentDate": true,
+  "temporalViewDate": "",
+  "allowApproximateFallback": false,
+  "showConnectorLine": true
+}
