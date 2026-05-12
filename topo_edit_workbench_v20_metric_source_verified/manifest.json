@@ -1,0 +1,79 @@
+{
+  "name": "topo_edit_workbench_v20_metric_source_verified",
+  "label": "Topo Edit Workbench v20 Metric Source Verified",
+  "type": "widget",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "version": "1.20.0",
+  "exbVersion": "1.17.0",
+  "author": "Esri R&D Center Beijing + OpenAI custom workbench extension",
+  "description": "Custom topology editing workbench v20 for Experience Builder. Assign has a mandatory, separate Metric Balance Source layer picker; boundary fields are used only for assignment writes, while balance/target fields load only from the selected metric source layer.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "messageActions": [],
+  "defaultSize": {
+    "width": 400,
+    "height": 400
+  },
+  "properties": {
+    "coverLayoutBackground": true
+  },
+  "dataActions": [
+    {
+      "name": "edit",
+      "label": "Topo Edit Workbench v20 Metric Source Verified",
+      "uri": "data-actions/edit",
+      "icon": "runtime/assets/icon.svg"
+    }
+  ],
+  "extensions": [
+    {
+      "name": "appConfigOperations",
+      "point": "APP_CONFIG_OPERATIONS",
+      "uri": "tools/app-config-operations"
+    }
+  ],
+  "translatedLocales": [
+    "en",
+    "ar",
+    "bg",
+    "bs",
+    "ca",
+    "cs",
+    "da",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "he",
+    "hr",
+    "hu",
+    "id",
+    "it",
+    "ja",
+    "ko",
+    "lt",
+    "lv",
+    "nb",
+    "nl",
+    "pl",
+    "pt-br",
+    "pt-pt",
+    "ro",
+    "ru",
+    "sk",
+    "sl",
+    "sr",
+    "sv",
+    "th",
+    "tr",
+    "zh-cn",
+    "uk",
+    "vi",
+    "zh-hk",
+    "zh-tw"
+  ]
+}
