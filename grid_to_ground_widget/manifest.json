@@ -1,0 +1,22 @@
+{
+  "name": "grid_to_ground_widget",
+  "label": "Grid to Ground Analyzer",
+  "type": "widget",
+  "version": "3.2.0",
+  "exbVersion": "1.17.0",
+  "author": "Custom",
+  "description": "Survey-grade Grid to Ground Analyzer dashboard with client-side analysis, CAD GP fallback, recommended project CSF, linked map/profile segment inspection, separate distortion and elevation profile tabs, terrain elevation sampling, scale zones, field staking converter, and batch QA/QC.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "icon": "icon.svg"
+}
