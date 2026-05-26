@@ -1,0 +1,12 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="HCPS Reports">
+  <defs>
+    <linearGradient id="g" x1="4" y1="4" x2="28" y2="28" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0061AA"/>
+      <stop offset="1" stop-color="#00385F"/>
+    </linearGradient>
+  </defs>
+  <rect x="3" y="4" width="26" height="24" rx="4" fill="url(#g)"/>
+  <rect x="6" y="8" width="20" height="3" rx="1.5" fill="#F0B410"/>
+  <path d="M8 15h16M8 19h16M8 23h10" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="23" cy="23" r="3" fill="#67226D" stroke="#FFFFFF" stroke-width="1"/>
+</svg>
