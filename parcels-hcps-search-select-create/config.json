@@ -1,0 +1,23 @@
+{
+  "parcelFolioField": "FOLIO",
+  "editFolioField": "FOLIO",
+  "joinFormat": "space",
+  "maxUniqueValues": 2000,
+  "autoZoom": true,
+  "autoHighlight": true,
+  "templateStartMode": "first-template",
+  "editTemplateName": "",
+  "restrictEditorToEditLayer": true,
+  "allowUpdateExisting": false,
+  "allowDeleteExisting": false,
+  "enableAttachments": true,
+  "enableRelatedRecords": true,
+  "showTemplateFilter": true,
+  "enableSnapping": true,
+  "enableTooltips": true,
+  "autoSyncFolioToSmartForm": true,
+  "editorLayerVisibility": {},
+  "editorLayerAliases": {},
+  "editorTemplateAliases": {},
+  "autoCleanEditorLabels": true
+}
