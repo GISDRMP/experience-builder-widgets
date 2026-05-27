@@ -1,0 +1,13 @@
+{
+  "pageSize": 2000,
+  "selectionMode": "selected-or-extent",
+  "includeGeneratedDate": true,
+  "autoFilterTemplatesBySelection": true,
+  "autoRefreshSelection": true,
+  "includeMapPreview": true,
+  "focusMapPreviewOnSelection": false,
+  "useBrowserPdfExport": true,
+  "kpiMetrics": [],
+  "templateKpiMetrics": [],
+  "templateLayerMappings": []
+}
