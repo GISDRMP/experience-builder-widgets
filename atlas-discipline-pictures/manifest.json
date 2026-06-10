@@ -1,0 +1,22 @@
+{
+  "name": "atlas-discipline-pictures",
+  "label": "Atlas Discipline Pictures",
+  "type": "widget",
+  "version": "1.17.2",
+  "exbVersion": "1.17.0",
+  "author": "DRMP / Trilon Group",
+  "description": "Picture-based discipline toggles for a one-web-map Project Atlas. Full-bleed square image buttons, readable settings, shared data source sync, and direct web map filtering.",
+  "copyright": "",
+  "license": "",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "publishMessages": [
+    "DATA_SOURCE_FILTER_CHANGE"
+  ],
+  "defaultSize": {
+    "width": 132,
+    "height": 720
+  },
+  "properties": {}
+}
