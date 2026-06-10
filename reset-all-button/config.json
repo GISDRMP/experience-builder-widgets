@@ -1,0 +1,11 @@
+{
+  "buttonText": "Reset All",
+  "buttonTextBold": true,
+  "resetMap": true,
+  "clearSelection": true,
+  "clearQuery": true,
+  "resetVisibleFilterWidgets": true,
+  "clearVisibleListSelections": true,
+  "autoDetectAllFilterWidgets": true,
+  "filterWidgetIds": []
+}
