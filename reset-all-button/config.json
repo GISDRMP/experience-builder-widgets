@@ -1,8 +1,0 @@
-{
-  "buttonText": "Reset All",
-  "resetMap": true,
-  "clearSelection": true,
-  "clearQuery": true,
-  "resetVisibleFilterWidgets": true,
-  "clearVisibleListSelections": true
-}
