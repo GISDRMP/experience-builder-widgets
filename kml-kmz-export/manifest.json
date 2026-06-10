@@ -1,0 +1,22 @@
+{
+  "name": "kml-kmz-export",
+  "label": "KML/KMZ Export",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.17.0",
+  "author": "DRMP",
+  "description": "Exports selected map features to KML or KMZ without using the native Extract Data KML converter.",
+  "copyright": "",
+  "license": "Apache-2.0",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 320,
+    "height": 360
+  },
+  "properties": {}
+}

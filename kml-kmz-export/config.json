@@ -1,0 +1,11 @@
+{
+  "defaultFormat": "kmz",
+  "includeAttributes": true,
+  "exportVisibleOnly": true,
+  "pointIconHref": "http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png",
+  "defaultLineWidth": 3,
+  "labelMode": "map-labels",
+  "labelNonPointFeatures": false,
+  "useSymbolPreviewIcons": true,
+  "embeddedIconSize": 40
+}

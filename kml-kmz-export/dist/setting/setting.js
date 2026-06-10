@@ -1,0 +1,8 @@
+System.register(["jimu-core","jimu-ui/advanced/setting-components"],(function(e,t){var i={},n={};return{setters:[function(e){i.css=e.css,i.jsx=e.jsx},function(e){n.MapWidgetSelector=e.MapWidgetSelector,n.SettingRow=e.SettingRow,n.SettingSection=e.SettingSection}],execute:function(){e((()=>{var e={9244:e=>{"use strict";e.exports=i},9298:e=>{"use strict";e.exports=n}},t={};function o(i){var n=t[i];if(void 0!==n)return n.exports;var r=t[i]={exports:{}};return e[i](r,r.exports,o),r.exports}o.d=(e,t)=>{for(var i in t)o.o(t,i)&&!o.o(e,i)&&Object.defineProperty(e,i,{enumerable:!0,get:t[i]})},o.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),o.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},o.p="";var r={};return o.p=window.jimuConfig.baseUrl,(()=>{"use strict";o.r(r),o.d(r,{__set_webpack_public_path__:()=>s,default:()=>n});var e=o(9244),t=o(9298);const i=e.css`
+  p {
+    margin: 0;
+    color: var(--dark-600);
+    font-size: 0.8125rem;
+    line-height: 1.35;
+  }
+`,n=n=>(0,e.jsx)("div",{css:i,className:"kml-kmz-export-setting"},(0,e.jsx)(t.SettingSection,{title:"Source map"},(0,e.jsx)(t.SettingRow,null,(0,e.jsx)(t.MapWidgetSelector,{useMapWidgetIds:n.useMapWidgetIds,onSelect:e=>{n.onSettingChange({id:n.id,useMapWidgetIds:e})}}))),(0,e.jsx)(t.SettingSection,{title:"Selection behavior"},(0,e.jsx)("p",null,"This widget reads the active Map widget's synchronized layer selections. It exports selected point, line, and polygon features to KML or KMZ without using the native Spatial Analysis Extract Data KML converter.")));function s(e){o.p=e}})(),r})())}}}));
