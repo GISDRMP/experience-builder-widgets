@@ -1,0 +1,22 @@
+{
+  "name": "kml-kmz-export",
+  "label": "KML/KMZ Export",
+  "type": "widget",
+  "version": "1.4.0",
+  "exbVersion": "1.17.0",
+  "author": "DRMP",
+  "description": "Exports selected map features and optional feature attachments to KML or KMZ, with attachment photos defaulting to the same orientation shown in the web map attachment viewer.",
+  "copyright": "",
+  "license": "Apache-2.0",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 320,
+    "height": 520
+  },
+  "properties": {}
+}
