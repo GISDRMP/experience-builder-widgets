@@ -1,0 +1,124 @@
+{
+  "brandTitle": "DRMP PROJECT ATLAS",
+  "headerLogoImage": "",
+  "footerLogoImage": "",
+  "footerLogoText": "DRMP",
+  "atlasInformationText": "Project Atlas is a live project search, filter, selection, and proximity dashboard connected to a single project layer in the selected web map.",
+  "webMapItemId": "",
+  "portalUrl": "https://gis.drmp.com/portal",
+  "fieldMap": {
+    "projectNumber": "ProjectNumber",
+    "projectName": "ProjectName",
+    "projectManager": "ProjectManager",
+    "projectClass": "ProjectClass",
+    "clientName": "ClientName",
+    "dotDistrict": "DOTDistrict",
+    "discipline": "Discipline",
+    "startDate": "StartDate",
+    "estimatedCompletionDate": "EstimatedCompletionDate",
+    "location": "Location",
+    "notes": "Notes"
+  },
+  "filters": [
+    { "key": "discipline", "label": "Discipline", "fieldKey": "discipline", "control": "select", "enabled": true },
+    { "key": "clientName", "label": "Client Name", "fieldKey": "clientName", "control": "select", "enabled": true },
+    { "key": "dotDistrict", "label": "DOT District", "fieldKey": "dotDistrict", "control": "select", "enabled": true },
+    { "key": "projectNumber", "label": "Project Number", "fieldKey": "projectNumber", "control": "text", "enabled": true },
+    { "key": "projectName", "label": "Project Name", "fieldKey": "projectName", "control": "text", "enabled": true },
+    { "key": "projectManager", "label": "Project Manager", "fieldKey": "projectManager", "control": "select", "enabled": true },
+    { "key": "projectClass", "label": "Project Class", "fieldKey": "projectClass", "control": "select", "enabled": true },
+    { "key": "startDate", "label": "Start Date", "fieldKey": "startDate", "control": "date-after", "enabled": true },
+    { "key": "estimatedCompletionDate", "label": "Est. Completion Date", "fieldKey": "estimatedCompletionDate", "control": "date-before", "enabled": true }
+  ],
+  "departmentCards": [
+    { "id": "transportation", "label": "Transportation", "value": "Transportation", "image": "", "enabled": true, "expandedByDefault": true, "subDisciplines": [
+      { "id": "alternate-delivery", "label": "Alternate Delivery", "value": "Alternate Delivery", "enabled": true },
+      { "id": "its", "label": "ITS", "value": "ITS", "enabled": true },
+      { "id": "pde", "label": "PD&E", "value": "PD&E", "enabled": true },
+      { "id": "roadway", "label": "Roadway", "value": "Roadway", "enabled": true },
+      { "id": "traffic", "label": "Traffic", "value": "Traffic", "enabled": true },
+      { "id": "tia", "label": "TIA", "value": "TIA", "enabled": true },
+      { "id": "structures", "label": "Structures", "value": "Structures", "enabled": true }
+    ] },
+    { "id": "survey", "label": "Survey", "value": "Survey", "image": "", "enabled": true, "expandedByDefault": true, "subDisciplines": [
+      { "id": "mobile-lidar", "label": "Mobile LiDAR", "value": "Mobile LiDAR", "enabled": true },
+      { "id": "uas", "label": "UAS", "value": "UAS", "enabled": true },
+      { "id": "gis", "label": "GIS", "value": "GIS", "enabled": true },
+      { "id": "sue", "label": "SUE", "value": "SUE", "enabled": true },
+      { "id": "right-of-way", "label": "Right of Way Mapping", "value": "Right of Way Mapping", "enabled": true }
+    ] },
+    { "id": "water-resources", "label": "Water Resources", "value": "Water Resources", "image": "", "enabled": true, "subDisciplines": [
+      { "id": "drainage", "label": "Drainage", "value": "Drainage", "enabled": true },
+      { "id": "stormwater", "label": "Stormwater", "value": "Stormwater", "enabled": true },
+      { "id": "watershed-studies", "label": "Watershed Studies", "value": "Watershed Studies", "enabled": true }
+    ] },
+    { "id": "civil-services", "label": "Civil Services", "value": "Civil Services", "image": "", "enabled": true, "subDisciplines": [
+      { "id": "general-civil", "label": "General Civil", "value": "General Civil", "enabled": true },
+      { "id": "utilities", "label": "Utilities", "value": "Utilities", "enabled": true }
+    ] },
+    { "id": "ecological", "label": "Ecological", "value": "Ecological", "image": "", "enabled": true, "subDisciplines": [
+      { "id": "pdes", "label": "PDES", "value": "PDES", "enabled": true },
+      { "id": "environmental", "label": "Environmental", "value": "Environmental", "enabled": true },
+      { "id": "permitting", "label": "Permitting", "value": "Permitting", "enabled": true }
+    ] },
+    { "id": "federal", "label": "Federal", "value": "Federal", "image": "", "enabled": true, "subDisciplines": [
+      { "id": "military", "label": "Military", "value": "Military", "enabled": true },
+      { "id": "civil-works", "label": "Civil Works", "value": "Civil Works", "enabled": true }
+    ] }
+  ],
+  "disciplineFilter": {
+    "matchMode": "contains",
+    "selectedMode": "all"
+  },
+  "kpiCards": [
+    { "id": "total-projects", "label": "Total Projects", "metric": "total", "subtitle": "All projects", "icon": "box", "enabled": true },
+    { "id": "active-projects", "label": "Matched Projects", "metric": "filtered", "subtitle": "Current filters", "icon": "check", "enabled": true },
+    { "id": "selected-filters", "label": "Selected Filters", "metric": "selectedFilters", "subtitle": "Active conditions", "icon": "filter", "enabled": true },
+    { "id": "transportation", "label": "Transportation", "metric": "discipline", "value": "Transportation", "subtitle": "Discipline count", "icon": "car", "enabled": true },
+    { "id": "survey", "label": "Survey", "metric": "discipline", "value": "Survey", "subtitle": "Discipline count", "icon": "survey", "enabled": true },
+    { "id": "water-resources", "label": "Water Resources", "metric": "discipline", "value": "Water Resources", "subtitle": "Discipline count", "icon": "drop", "enabled": true },
+    { "id": "reports", "label": "View Reports", "metric": "reports", "subtitle": "Project analytics", "icon": "chart", "enabled": true }
+  ],
+  "listFields": [
+    { "label": "Project Number", "fieldKey": "projectNumber", "enabled": true },
+    { "label": "Project Name", "fieldKey": "projectName", "emphasis": true, "enabled": true },
+    { "label": "Project Manager", "fieldKey": "projectManager", "enabled": true }
+  ],
+  "infoFields": [
+    { "label": "Project Name", "fieldKey": "projectName", "emphasis": true, "enabled": true },
+    { "label": "Project Number", "fieldKey": "projectNumber", "enabled": true },
+    { "label": "Project Manager", "fieldKey": "projectManager", "enabled": true },
+    { "label": "Project Class", "fieldKey": "projectClass", "enabled": true },
+    { "label": "Client Name", "fieldKey": "clientName", "enabled": true },
+    { "label": "DOT District", "fieldKey": "dotDistrict", "enabled": true },
+    { "label": "Discipline", "fieldKey": "discipline", "enabled": true },
+    { "label": "Start Date", "fieldKey": "startDate", "enabled": true },
+    { "label": "Est. Completion Date", "fieldKey": "estimatedCompletionDate", "enabled": true },
+    { "label": "Location", "fieldKey": "location", "enabled": true },
+    { "label": "Notes", "fieldKey": "notes", "enabled": true }
+  ],
+  "theme": {
+    "primary": "#a93429",
+    "primaryDark": "#802219",
+    "accent": "#ffffff",
+    "panel": "#f3f4f7",
+    "panelDark": "#242424",
+    "text": "#111111",
+    "border": "#c9c9c9",
+    "mapOverlayText": "#444444"
+  },
+  "proximity": {
+    "enabled": true,
+    "defaultDistance": 10,
+    "defaultUnit": "miles",
+    "unitOptions": ["miles", "kilometers", "feet"],
+    "geocodeServiceUrl": "https://geocode.arcgis.com/arcgis/rest/services/World/GeocodeServer"
+  },
+  "mapBehavior": {
+    "enableClustering": true,
+    "clusterRadius": "72px",
+    "autoZoomOnSelect": true,
+    "selectionZoom": 13,
+    "resultLimit": 500
+  }
+}
