@@ -1,0 +1,2500 @@
+{
+  "title": "DRMP Survey Regional Directory",
+  "subtitle": "DRMP Internal Use Only",
+  "defaultDistrictId": "5",
+  "showSearch": true,
+  "showLowerDirectory": true,
+  "mainClients": [
+    {
+      "id": "florida-s-turnpike-1782746387586-0",
+      "name": "Florida's Turnpike",
+      "logoUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cgo8c3ZnIHZlcnNpb249IjEuMSIgd2lkdGg9Ijk0NiIgaGVpZ2h0PSIxMTUyIiB2aWV3Qm94PSIwIDAgOTQ2IDExNTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6c3ZnPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+Cgo8ZyBpZD0iYmFja0dyb3VuZCI+Cgo8cmVjdCBpZD0icGxhdGVNZXRhbCIgd2lkdGg9Ijk0NiIgaGVpZ2h0PSIxMTUyIiB4PSIwIiB5PSIwIiByeD0iMTQwIiByeT0iMTQwIiBzdHlsZT0iZmlsbDojMDA1NzFkOyIgLz4KCjxyZWN0IGlkPSJmcmFtZSIgd2lkdGg9Ijg4Ny41IiBoZWlnaHQ9IjEwOTMuNSIgeD0iMjguNzUiIHk9IjI5Ljc1IiByeD0iMTA0Ljk0MjYzIiBzdHlsZT0iZmlsbDpub25lO3N0cm9rZTp3aGl0ZTtzdHJva2Utd2lkdGg6MTcuNTsiIC8+Cgo8L2c+Cgo8ZyBpZD0ic2lnbkNvbnRlbnRzIj4KCjxnIGlkPSJmbG9yaWRhVHVybnBpa2UiPgoKPGcgaWQ9ImZsb3JpZGEiPgoKPGcgaWQ9IkZsb3JpZGEiPgoKPHBhdGggaWQ9ImYiIGQ9Im0gMTQxLjk4MDIyLDE1My44OTI4NCBoIDM1Ljg2MTEyIHYgLTIzLjQ1MDIgaCAtNjIuMjA4MDEgdiAxMDcuNzI1MDEgaCAyNi4zNDY4OSB2IC00Mi41MDM4MyBoIDMzLjY2NTYgdiAtMjMuNDUwMiBoIC0zMy42NjU2IHoiIHN0eWxlPSJmaWxsOndoaXRlOyIgLz4KCjxwYXRoIGlkPSJsIiBkPSJtIDE5My4yMTA0MiwxMzAuNDQyNjQgdiAxMDcuNzI1MDEgaCA2MS40NzYxIHYgLTI0LjkxNjEyIGggLTM0LjM5NzI5IHYgLTgyLjgwODg5IHoiIHN0eWxlPSJmaWxsOndoaXRlOyIgLz4KCjxwYXRoIGlkPSJvIiBkPSJtIDM0My4yNDE2NiwxODQuNjcxNDUgYyAwLDE2Ljg1NTEgLTExLjcwOTk3LDMwLjc3ODYgLTI2LjM0NzEzLDMwLjc3ODYgLTE0LjYzNzE3LDAgLTI3LjA3ODgyLC0xMy45MjM1IC0yNy4wNzg4MiwtMzAuNzc4NiAwLC0xNy41ODc3MSAxMi40NDE2NSwtMzEuNTExMjIgMjcuMDc4ODIsLTMxLjUxMTIyIDE0LjYzNzE2LDAgMjYuMzQ3MTMsMTMuOTIzNTEgMjYuMzQ3MTMsMzEuNTExMjIgeiBtIC0yNi4zNDcxMywtNTYuNDI3MzMgYyAtMzAuMDA2MjUsMCAtNTQuMTU3NCwyNS42NDg3MiAtNTQuMTU3NCw1Ni40MjczMyAwLDMwLjc3ODYgMjQuMTUxMTUsNTYuNDI3NTYgNTQuMTU3NCw1Ni40Mjc1NiAzMC4wMDYyNCwwIDU0LjE1NzYzLC0yNS42NDg5NiA1NC4xNTc2MywtNTYuNDI3NTYgMCwtMzAuNzc4NjEgLTI0LjE1MTM5LC01Ni40MjczMyAtNTQuMTU3NjMsLTU2LjQyNzMzIHoiIHN0eWxlPSJmaWxsOndoaXRlOyIgLz4KCjxwYXRoIGlkPSJyMSIgZD0ibSAzODkuMzQ4NjcsMTMwLjQ0MjY0IGMgMzIuMjAxNzYsMCAzMi4yMDE3NiwwIDMyLjIwMTc2LDAgNDMuMTc5ODIsMCA0My4xNzk4MiwyNi4zODE1NiA0My4xNzk4MiwzMy43MDk3NCAwLDI2LjM4MTc5IC0yMi42ODc3OCwzMC43Nzg2IC0yMi42ODc3OCwzMC43Nzg2IDI3LjgxMDczLDQzLjIzNjY3IDI3LjgxMDczLDQzLjIzNjY3IDI3LjgxMDczLDQzLjIzNjY3IC0zMS40Njk4NSwwIC0zMS40Njk4NSwwIC0zMS40Njk4NSwwIC0yMy40MTk0NywtNDEuMDM4MTUgLTIzLjQxOTQ3LC00MS4wMzgxNSAtMjMuNDE5NDcsLTQxLjAzODE1IDAsNDEuMDM4MTUgMCw0MS4wMzgxNSAwLDQxLjAzODE1IC0yNS42MTUyMSwwIC0yNS42MTUyMSwwIC0yNS42MTUyMSwwIHogbSAzMi4yMDE3Niw1MC41NjQ4NCBjIDAsMCAxNS4zNjkwOSwwIDE1LjM2OTA5LC0xMy4xOTA5IDAsLTE0LjY1NjM1IC0xNS4zNjkwOSwtMTQuNjU2MzUgLTE1LjM2OTA5LC0xNC42NTYzNSAtNi41ODY1NSwwIC02LjU4NjU1LDAgLTYuNTg2NTUsMCAwLDI3Ljg0NzI1IDAsMjcuODQ3MjUgMCwyNy44NDcyNSB6IiBzdHlsZT0iZmlsbDp3aGl0ZTsiIC8+Cgo8cGF0aCBpZD0iaTEiIGQ9Im0gNDgxLjU2MjkzLDEzMC40NDI2NCBoIDI4LjU0MjY1IHYgMTA3LjcyNTAxIGggLTI4LjU0MjY1IHoiIHN0eWxlPSJmaWxsOndoaXRlOyIgLz4KCjxwYXRoIGlkPSJkIiBkPSJtIDU1OS44NzE5NCwxNTQuNjI1NjggYyAwLDAgMCwwIDQuMzkxMDMsMCA0LjM5MTI3LDAgMzEuNDcwMDgsMCAzMS40NzAwOCwyOS4zMTI5MyAwLDMwLjA0NTc2IC0yMi42ODc1NSwzMC4wNDU3NiAtMjkuMjc0MzMsMzAuMDQ1NzYgLTYuNTg2NzgsMCAtNi41ODY3OCwwIC02LjU4Njc4LDAgeiBtIC0yNy44MTA3MywtMjQuMTgzMDQgYyAwLDEwNy43MjUwMSAwLDEwNy43MjUwMSAwLDEwNy43MjUwMSAwLDAgOC4wNTA2MSwwIDI3LjgxMDczLDAgMTkuNzYwMTEsMCA2NC40MDM1MywtMC43MzI4NCA2NC40MDM1MywtNTQuMjI5MDQgMCwtNTMuNDk1OTcgLTQ3LjU3MDg1LC01My40OTU5NyAtNjQuNDAzNTMsLTUzLjQ5NTk3IC0xNi44MzI2OCwwIC0yNy44MTA3MywwIC0yNy44MTA3MywwIHoiIHN0eWxlPSJmaWxsOndoaXRlOyIgLz4KCjxwYXRoIGlkPSJhIiBkPSJtIDY3OS44OTY5MywxNDguNzYzMTkgMTMuOTA1MjUsNDguMzY2MzEgaCAtMjcuODEwNzMgeiBtIC0yNS42MTUyMSw4OS40MDQ0NiA2LjU4Njc4LC0xOS43ODYyMyBoIDM4Ljc4ODU0IGwgNC4zOTEyNywxOS43ODYyMyBoIDI4LjU0MjQxIEwgNjk3LjQ2MTUzLDEzMC40NDI2NCBIIDY2My4wNjQwMSBMIDYyNy4yMDI5LDIzOC4xNjc2NSBaIiBzdHlsZT0iZmlsbDp3aGl0ZTsiIC8+Cgo8L2c+Cgo8ZyBpZD0icG9zc2Vzc2l2ZSI+Cgo8cGF0aCBpZD0iYXBvc3Ryb3BoZSIgZD0ibSA3NTIuMzUwODQsMTcyLjk0NjQ2IGggLTE1LjM2ODg1IHYgLTQwLjMwNTMgaCAxNS4zNjg4NSB6IiBzdHlsZT0iZmlsbDp3aGl0ZTsiIC8+Cgo8cGF0aCBpZD0icyIgZD0ibSA4MTAuMTY3ODIsMjA1LjkyMzM2IGMgMCwwIDAuNzMyNjEsMTIuNDU4MDYgLTEzLjE3MzM0LDEyLjQ1ODA2IC0xMy45MDU0OCwwIC0yNC4xNTEzOCwtMTMuOTIzNzQgLTI0LjE1MTM4LC0xMy45MjM3NCAtMTIuNDQxNjUsMjAuNTE5MDcgLTEyLjQ0MTY1LDIwLjUxOTA3IC0xMi40NDE2NSwyMC41MTkwNyAwLDAgMTIuNDQxNjUsMTYuMTIyMjYgMzYuNTkzMDMsMTYuMTIyMjYgMjQuMTUxMTUsMCAzOC43ODg1NSwtMTYuMTIyMjYgMzguNzg4NTUsLTM4LjEwNjc4IDAsLTQxLjc3MDk5IC00NC42NDM2NCwtMjQuMTgzMjggLTQ0LjY0MzY0LC00My45Njk1MSAwLC00LjM5NzA0IDQuMzkxMjYsLTEwLjI1OTUzIDExLjcwOTk2LC0xMC4yNTk1MyA3LjMxODQ3LDAgMTkuMDI4Miw4Ljc5Mzg1IDE5LjAyODIsOC43OTM4NSA4Ljc4MjMsLTE5Ljc4NjIzIDguNzgyMywtMTkuNzg2MjMgOC43ODIzLC0xOS43ODYyMyAwLDAgLTguMDUwMzgsLTkuNTI2NjkgLTI5LjI3NDMzLC05LjUyNjY5IC0yNC4xNTEzOCwwIC0zNS44NjExMSwxMy45MjM3MyAtMzUuODYxMTEsMzQuNDQyODEgMCwzOC4xMDY3OCA0NC42NDM0MSwyMS45ODQ1MiA0NC42NDM0MSw0My4yMzY0MyB6IiBzdHlsZT0iZmlsbDp3aGl0ZTsiIC8+Cgo8L2c+Cgo8L2c+Cgo8ZyBpZD0idHVybnBpa2UiPgoKPHBhdGggaWQ9InQiIGQ9Im0gMTA2Ljg1MTAzLDMxMS40NTAwOCB2IDI0LjkxNTg4IGggMjMuNDE5NDYgdiA4Mi44MDkxMyBoIDI3LjgxMDczIHYgLTgyLjgwOTEzIGggMjIuNjg3NTUgdiAtMjQuOTE1ODggeiIgc3R5bGU9ImZpbGw6d2hpdGU7IiAvPgoKPHBhdGggaWQ9InUiIGQ9Im0gMTkzLjk0MjM0LDMxMS40NTAwOCBjIDAsMCAwLDM4LjgzOTYyIDAsNTkuMzU4NjkgMCwyMC41MTkwNyAwLDUxLjI5NzQ1IDQ1LjM3NTA5LDUxLjI5NzQ1IDQ1LjM3NTMzLDAgNDUuMzc1MzMsLTMwLjA0NTc3IDQ1LjM3NTMzLC01Mi4wMzAyOSAwLC0yMS4yNTE5MSAwLC01Ny44OTMyNCAwLC01Ny44OTMyNCAtMjcuMDc4ODEsLTAuNzMyNjEgLTI3LjA3ODgxLC0wLjczMjYxIC0yNy4wNzg4MSwtMC43MzI2MSAwLDAgMCw1Mi4wMzAyOSAwLDU4LjYyNTg1IDAsNy4zMjgxNyAtMC43MzI2MSwyNy44NDcyNSAtMTguMjk2NTIsMjcuODQ3MjUgLTE3LjU2NDYsMCAtMTcuNTY0NiwtMTcuNTg3NzEgLTE3LjU2NDYsLTI3Ljg0NzI1IC0wLjczMjYsLTEwLjI1OTU0IDAsLTU4LjYyNTg1IDAsLTU4LjYyNTg1IHoiIHN0eWxlPSJmaWxsOndoaXRlOyIgLz4KCjxwYXRoIGlkPSJyMiIgZD0ibSAzMDUuOTE2NzEsMzExLjQ1MDA4IGMgMzIuOTMzNjgsMCAzMi45MzM2OCwwIDMyLjkzMzY4LDAgNDMuMTc5ODEsMCA0My4xNzk4MSwyNi4zODE1NiA0My4xNzk4MSwzMy43MDk3NCAwLDI2LjM4MTc5IC0yMi42ODc3OCwzMC4wNDU3NiAtMjIuNjg3NzgsMzAuMDQ1NzYgMjcuMDc4ODIsNDMuOTY5NTEgMjcuMDc4ODIsNDMuOTY5NTEgMjcuMDc4ODIsNDMuOTY5NTEgLTMwLjczODE3LDAgLTMwLjczODE3LDAgLTMwLjczODE3LDAgLTIzLjQxOTQ2LC00MS43NzA5OSAtMjMuNDE5NDYsLTQxLjc3MDk5IC0yMy40MTk0NiwtNDEuNzcwOTkgMCw0MS43NzA5OSAwLDQxLjc3MDk5IDAsNDEuNzcwOTkgLTI2LjM0NjksMCAtMjYuMzQ2OSwwIC0yNi4zNDY5LDAgeiBtIDMyLjkzMzY4LDUwLjU2NDYxIGMgMCwwIDE1LjM2OTA4LDAgMTUuMzY5MDgsLTEzLjE5MDY3IDAsLTE0LjY1NjU4IC0xNS4zNjkwOCwtMTQuNjU2NTggLTE1LjM2OTA4LC0xNC42NTY1OCAtNi41ODY3OCwwIC02LjU4Njc4LDAgLTYuNTg2NzgsMCAwLDI3Ljg0NzI1IDAsMjcuODQ3MjUgMCwyNy44NDcyNSB6IiBzdHlsZT0iZmlsbDp3aGl0ZTsiIC8+Cgo8cGF0aCBpZD0ibiIgZD0ibSAzOTguMTMwOTcsMzExLjQ1MDA4IHYgMTA3LjcyNTAxIGggMjYuMzQ2OSB2IC01OC42MjU4NSBsIC0xLjQ2MjkxLC0xMy45MjM3NCA3LjMxODQ3LDEzLjkyMzc0IDQwLjI1MjM4LDU4LjYyNTg1IGggMjcuMDc4ODEgViAzMTEuNDUwMDggaCAtMjcuMDc4ODEgdiA1Ni40MjczMyBsIDIuMTk1NTEsMTUuMzg5MTkgLTguNzgyMywtMTUuMzg5MTkgLTM5LjUyMDQ2LC01Ni40MjczMyBoIC0yNi4zNDY5IHYgMCB6IiBzdHlsZT0iZmlsbDp3aGl0ZTsiIC8+Cgo8cGF0aCBpZD0icCIgZD0ibSA1NDUuMjM0NzcsMzM0LjkwMDI4IGMgNS44NTQ4NywwIDUuODU0ODcsMCA1Ljg1NDg3LDAgMCwwIDE3LjU2NDYsLTAuNzMyODQgMTcuNTY0NiwxMS43MjUyMiAwLDEyLjQ1ODA1IC0xNy41NjQ2LDEyLjQ1ODA1IC0xNy41NjQ2LDEyLjQ1ODA1IC01Ljg1NDg3LDAgLTUuODU0ODcsMCAtNS44NTQ4NywwIHogbSAtMjUuNjE1MjEsODQuMjc0ODEgYyAyNS42MTUyMSwwIDI1LjYxNTIxLDAgMjUuNjE1MjEsMCAwLC0zNS45MDg0OSAwLC0zNS45MDg0OSAwLC0zNS45MDg0OSA1Ljg1NDg3LDAgNS44NTQ4NywwIDUuODU0ODcsMCAyMS45NTU4NiwwIDQzLjkxMTUsLTEuNDY1NjggNDMuOTExNSwtMzUuMTc1NDIgMCwtMzQuNDQyODEgLTIzLjQxOTQ3LC0zNi42NDExIC00My45MTE1LC0zNi42NDExIC0zMS40NzAwOCwwIC0zMS40NzAwOCwwIC0zMS40NzAwOCwwIHoiIHN0eWxlPSJmaWxsOndoaXRlOyIgLz4KCjxwYXRoIGlkPSJpMiIgZD0ibSA2MzguOTEyNjMsNDE5LjE3NTA5IGggLTI3LjgxMDUgViAzMTEuNDUwMDggaCAyNy44MTA1IHoiIHN0eWxlPSJmaWxsOndoaXRlOyIgLz4KCjxwYXRoIGlkPSJrIiBkPSJtIDY2MS42MDA0MSwzMTEuNDUwMDggaCAyNy4wNzg4MiB2IDQ3LjYzMzQ3IGwgMzIuOTMzNjgsLTQ3LjYzMzQ3IGggMzEuNDY5ODUgbCAtMzcuMzI0NzIsNTIuMDMwMjkgNDAuOTg0MDcsNTUuNjk0NzIgaCAtMzUuMTI5MiBsIC0zMi45MzM2OCwtNDguMzY2MzIgdiA0OC4zNjYzMiBoIC0yNy4wNzg4MiB6IiBzdHlsZT0iZmlsbDp3aGl0ZTsiIC8+Cgo8cGF0aCBpZD0iZSIgZD0ibSA3NjUuNTI0NDEsMzExLjQ1MDA4IGggNjIuMjA4MDEgdiAyMy40NTAyIGggLTM1LjEyOTIgdiAxOC4zMjA1NSBoIDMyLjkzMzY4IHYgMjIuNzE3NTkgaCAtMzIuOTMzNjggdiAxOS4wNTMzOSBoIDM1LjEyOTIgdiAyNC4xODMyOCBoIC02Mi4yMDgwMSB6IiBzdHlsZT0iZmlsbDp3aGl0ZTsiIC8+Cgo8L2c+Cgo8L2c+Cgo8cGF0aCBpZD0icGVuaW5zdWxhIiBkPSJtIDEzNC42NjE1Myw1NDAuMDkwOTkgYyAwLDAgMjcuODEwNzMsLTE5Ljc4NjIzIDI3LjgxMDczLC0zNC40NDI4IDAsLTE0LjY1NjU4IC01LjEyMjk1LC0xMC4yNTk1NCAtOS41MTQyMiwtMTAuMjU5NTQgLTQuMzkxMDMsMCAtNi41ODY3OCwtMTAuOTkyMzggLTYuNTg2NzgsLTEwLjk5MjM4IDAsLTEwLjI1OTUzIDAsLTEwLjI1OTUzIDAsLTEwLjI1OTUzIDIxMi45NzExNiwwIDIxMi45NzExNiwwIDIxMi45NzExNiwwIDEwLjI0NjEzLDIzLjQ1MDQzIDEwLjI0NjEzLDIzLjQ1MDQzIDEwLjI0NjEzLDIzLjQ1MDQzIDIxOS41NTc3Miw4LjA2MTAyIDIxOS41NTc3Miw4LjA2MTAyIDIxOS41NTc3Miw4LjA2MTAyIDAsMCA1LjEyMjk1LDguNzkzODUgNS4xMjI5NSwxMy45MjM3MyAwLDQuMzk2ODIgNS4xMjMxOCw0LjM5NjgyIDUuMTIzMTgsNC4zOTY4MiA1LjEyMjk1LDEuNDY1NjggNS4xMjI5NSwxLjQ2NTY4IDUuMTIyOTUsMS40NjU2OCAxLjQ2MjkxLC0xOS43ODYyMyAxLjQ2MjkxLC0xOS43ODYyMyAxLjQ2MjkxLC0xOS43ODYyMyAtMy42NTkzNSwtMTAuMjU5NTQgLTMuNjU5MzUsLTEwLjI1OTU0IC0zLjY1OTM1LC0xMC4yNTk1NCA1Ljg1NDg3LC0xMC45OTIzOCA1Ljg1NDg3LC0xMC45OTIzOCA1Ljg1NDg3LC0xMC45OTIzOCA0OC4zMDI3NiwxMC45OTIzOCA0OC4zMDI3NiwxMC45OTIzOCA0OC4zMDI3NiwxMC45OTIzOCAwLDAgMTYuMTAwNzcsOTMuMDY4NjYgNDIuNDQ3NjYsMTQ3LjI5NzQ3IDI3LjA3ODgyLDU0Ljk2MTg4IDM4Ljc4ODU1LDY0LjQ4ODU4IDM4Ljc4ODU1LDc3LjY3OTI0IDAsMTMuMTkwOSAtNi41ODY1NSwxMy4xOTA5IC02LjU4NjU1LDEzLjE5MDkgMCwwIDUwLjQ5ODI4LDEyMy4xMTQ0MyA1My40MjU3MSwxMzcuMDM3OTQgMi4xOTU1MiwxNC42NTY1OCAxLjQ2MjkxLDg2LjQ3MzMzIC0xMy4xNzM1NiwxMTAuNjU2MzcgLTEzLjkwNTI1LDI0LjkxNjEzIC0xNi4xMDEsMjQuOTE2MTMgLTE1LjM2OTA4LDI1LjY0ODkzIDEuNDYyOSwxLjQ2NTUgNi41ODY3OCwtMi4xOTg1IDYuNTg2NzgsLTIuMTk4NSAwLDAgNS4xMjI5NSwtNS4xMjk4OCA3LjMxODcsLTMuNjY0MiAxLjQ2MjksMi4xOTg1IC0yLjkyNzQ0LDI0LjE4MzMgLTE2LjEwMSwzOS41NzI1IC0xMy4xNzM1NywxNi4xMjIgLTI0Ljg4MzMsMzAuNzc4NiAtNjMuNjcxODUsNDMuMjM2NiAtMzkuNTIwMjMsMTMuMTkwNyAtNTcuMDg1MDYsMTQuNjU2NCAtNTcuMDg1MDYsMTQuNjU2NCAwLDAgMS40NjI5MSwwLjczMjggLTEuNDYyOSwtMS40NjU3IC0yLjkyNzQ0LC0yLjkzMTEgMC43MzI2LC0yLjkzMTEgMC43MzI2LC0yLjkzMTEgMCwwIC0xLjQ2MjksLTEuNDY1NyAwLjczMjYxLC03LjMyODQgMi4xOTU1MiwtNS4xMjk3IDEuNDYyOTEsLTUuMTI5NyA3LjMxODcsLTcuMzI4MiA1Ljg1NDg3LC0yLjkzMTQgMzAuNzM4MTcsLTYuNTk1NCA1My40MjU3MSwtMTEuNzI1MiAxOC4yOTY1MiwtMi4xOTgzIDM2LjU5MzAzLC04Ljc5MzkgNDMuOTExNSwtMzAuNzc4NiAwLDAgLTE2LjEwMDc3LDQuMzk3IC0zMS40Njk4NSw0LjM5NyAtMTQuNjM3MTYsMCAtMTAuOTc3ODEsMC43MzI4IC0xNC42MzcxNiwtMy42NjQyIC00LjM5MTI3LC0zLjY2NCAtMi4xOTU1MiwtNDUuNDM0OTYgLTI0LjE1MTM4LC02Mi4yODk4MiAtMjEuOTU1ODcsLTE2Ljg1NTEgLTEzLjE3MzU3LC02LjU5NTU3IC0xNy41NjQ2LC02LjU5NTU3IC00LjM5MTI3LDAgLTEwLjI0NjEzLDIuMTk4NTIgLTE2LjgzMjkyLDAgLTYuNTg2NTUsLTIuMTk4MjkgLTcuMzE4NDYsLTEyLjQ1NzgyIC03LjMxODQ2LC0xNy41ODc3MSAwLC00LjM5NjgxIDEuNDYyOSwtMTAuOTkyMzcgMS40NjI5LC0xNi44NTQ4NyAwLC01Ljg2MjcyIDAsLTEyLjQ1ODA1IC01Ljg1NDg2LC0xOC4zMjA1NSAtNS4xMjI5NSwtNS44NjI3MiAtOC43ODIzLDAgLTE5LjAyODIsLTMuNjY0MiAtMTAuMjQ2MTMsLTMuNjY0MiAtMTguMjk2NTIsLTE4LjMyMDU1IC0yNS42MTUyMSwtMzAuNzc4NjEgLTYuNTg2NTYsLTEyLjQ1ODA1IC0yNC44ODMwNywtNjUuMjIxMTggLTI0Ljg4MzA3LC02NS4yMjExOCAwLDAgMTcuNTY0NiwtMTguMzIwNTUgMjEuOTU1NjMsLTIyLjcxNzYgNC4zOTEyNywtMy42NjQyIDcuMzE4NywtMTAuOTkyMzcgNy4zMTg3LC0xMC45OTIzNyAwLDAgLTIuOTI3NDMsLTEwLjI1OTU0IC01LjEyMjk1LC0xNi4xMjIwMyAtMS40NjI5MSwtNS4xMjk4OCAtNC4zOTEyNywtOC4wNjEwMSAtNi41ODY3OCwtOC4wNjEwMSAtMi4xOTU1MiwwIC0xMC45NzgwNSw4LjA2MTAxIC0xMC45NzgwNSwxMi40NTc4MiAwLDMuNjY0MiA3LjMxODcsMTQuNjU2NTggNy4zMTg3LDE2LjEyMjI2IDAsMi4xOTgyOSAtMTcuNTY0Niw1LjEyOTY1IC0yMS4yMjM5NSwyLjE5ODI5IC0yLjkyNzQzLC0zLjY2Mzk3IC0xLjQ2MjkxLC01Ljg2MjQ5IC0xLjQ2MjkxLC0xMC4yNTk1MyAwLC00LjM5NjgyIDEzLjkwNTI1LC01NC4yMjg4MSAxMy45MDUyNSwtNzguNDEyMDkgMCwtMjQuOTE1ODggLTE2LjgzMjY4LC00OC4zNjYzMSAtMjQuMTUxMzgsLTQ4LjM2NjMxIC02LjU4Njc4LDAgLTIuOTI3NDMsLTAuNzMyODQgLTcuMzE4NywtMi4xOTg1MyAtNC4zOTEwMywtMS40NjU0NSAtOC43ODIzLC0xNi44NTQ4NiAtMTUuMzY4ODUsLTI0LjE4MzA0IC03LjMxODcsLTcuMzI4MTcgLTEzLjE3MzU2LC0xMi40NTgwNiAtMTkuMDI4NDMsLTE4LjMyMDU1IC01Ljg1NDg2LC02LjU5NTU2IC0xOC4yOTY1MSwtMjcuODQ3MjQgLTI3LjA3ODgxLC0zMi45NzcxMyAtOC43ODIzLC01LjEyOTY1IDAsLTQuMzk2ODEgLTUuMTIyOTUsLTQuMzk2ODEgLTUuODU0ODcsMCAtMS40NjI5MSwwIC02LjU4Njc5LC0yLjE5ODUyIC01LjEyMjk1LC0yLjE5ODUyIC01Ljg1NDg2LC0xMC45OTIzOCAtMTMuMTczNTYsLTEwLjk5MjM4IC0xMC4yNDU5LDAgLTQzLjE3OTU4LDQxLjc3MDk5IC03Mi40NTM5MSw0MS43NzA5OSAtMzQuMzk3NTEsMCAtOTkuNTMyOTYsLTY0LjQ4ODU4IC0xMzkuMDUzNDIsLTY0LjQ4ODU4IDAsMCAtNTEuMjMwMiw1Ljg2MjcyIC05Mi45NDYxOCw1Ljg2MjcyIHogbSA1NTQuMDE3NywzNzguODY5NTIgYyAwLDEuNDY1NjggMC43MzI2MSwzLjY2NDIxIDIuOTI3NDMsMy42NjQyMSAyLjkyNzQzLDAgLTEuNDYyOTEsLTAuNzMyODQgNS4xMjI5NSwtMC43MzI4NCA3LjMxODcsMCAyMS4yMjM5NSwxMC45OTIzNyAyNy4wNzg4MiwxMC45OTIzNyA2LjU4Njc4LDAgMTQuNjM3MTYsLTkuNTI2NjkgMTQuNjM3MTYsLTkuNTI2NjkgMCwwIDguMDUwMzgsLTcuMzI4MTggOC4wNTAzOCwtMTYuMTIyMDMgMCwtOC4wNjEyNSAtOC4wNTAzOCwtMjcuMTE0NjQgLTEwLjk3NzgxLC0yOS4zMTMxNiAtMi4xOTU1MiwtMi45MzExMyAtMTMuOTA1MjUsLTcuMzI4MTcgLTE2LjEwMSwtNy4zMjgxNyAtMS40NjI5MSwwIC05LjUxMzk4LDUuODYyNzIgLTE0LjYzNzE3LDkuNTI2NjkgLTUuODU0ODYsMy42NjQyIC0xMi40NDE0MSw5LjUyNjcgLTEyLjQ0MTQxLDkuNTI2NyAtMC43MzI2MSwyLjE5ODUyIC0zLjY1OTM1LDI4LjU4MDA4IC0zLjY1OTM1LDI5LjMxMjkyIHoiIHN0eWxlPSJmaWxsOndoaXRlOyIgLz4KCjwvZz4KCjwvc3ZnPgo=",
+      "assignedPersonIds": []
+    }
+  ],
+  "mapMode": "auto",
+  "districtBoundaryServiceUrl": "https://gis.fdot.gov/arcgis/rest/services/Admin_Boundaries/FeatureServer/3",
+  "districtBoundaryDistrictField": "DISTRICT",
+  "districtBoundaryNameField": "DVALUE",
+  "districtBoundaryOpacity": 0.82,
+  "directorySourceMode": "config",
+  "directorySchemaMode": "regions",
+  "directoryFeatureServiceUrl": "",
+  "directoryPeopleTableUrl": "",
+  "directoryRegionsTableUrl": "",
+  "directoryPeopleLayerId": 0,
+  "directoryRegionsLayerId": 1,
+  "directoryDistrictsLayerId": 0,
+  "directoryServicesLayerId": 1,
+  "directoryOrgChartLayerId": 3,
+  "sourceWorkbookSchema": {
+    "version": "People_Regions_v3",
+    "peopleSheet": "People",
+    "regionsSheet": "Regions",
+    "serviceLogic": "SUE leaders use People rows where Service=SUE and Is Service Leader=Y or Leader appears in the title; coverage follows Regions Offered.",
+    "importedAt": "2026-07-23T14:42:47.789333+00:00",
+    "importedFiles": [
+      "DRMP_Survey_Regional_Directory_Feed.xlsx"
+    ],
+    "peopleRows": 26,
+    "regionRows": 67
+  },
+  "districts": [
+    {
+      "id": "1",
+      "name": "FDOT District 1",
+      "shortName": "District 1",
+      "headquarters": "Bartow, FL",
+      "districtLeadId": "brent-bass",
+      "color": "#f2c15c",
+      "counties": [
+        "Charlotte",
+        "Collier",
+        "DeSoto",
+        "Glades",
+        "Hardee",
+        "Hendry",
+        "Highlands",
+        "Lee",
+        "Manatee",
+        "Okeechobee",
+        "Polk",
+        "Sarasota"
+      ],
+      "services": [
+        {
+          "id": "d1-survey",
+          "key": "survey",
+          "name": "Survey",
+          "leaderId": "brent-bass",
+          "iconKey": "survey",
+          "color": "#f28d3c",
+          "accentColor": "#f28d3c",
+          "description": "Regional survey coverage from the Regions table."
+        },
+        {
+          "id": "d1-sue",
+          "key": "sue",
+          "name": "SUE",
+          "leaderId": "tom-yocum",
+          "iconKey": "sue",
+          "color": "#8c63b6",
+          "accentColor": "#8c63b6",
+          "description": "SUE leader coverage: South West."
+        },
+        {
+          "id": "d1-lidar",
+          "key": "lidar",
+          "name": "LiDAR",
+          "leaderId": "bryant-king",
+          "iconKey": "lidar",
+          "color": "#6aa84f",
+          "accentColor": "#6aa84f",
+          "description": "LiDAR leader coverage derived from imported People rows."
+        },
+        {
+          "id": "d1-gis",
+          "key": "gis",
+          "name": "GIS",
+          "leaderId": "mark-brown",
+          "iconKey": "gis",
+          "color": "#2f80d6",
+          "accentColor": "#2f80d6",
+          "description": "GIS leader coverage derived from imported People rows."
+        }
+      ],
+      "notes": "Regions: South West | Regional Leader(s): Brent Bass | Area Leader(s) listed by county: Brent Bass, Bill Curtis",
+      "mapViewBox": "0 0 720 650",
+      "hqAddress": [
+        "801 North Broadway Avenue",
+        "Bartow, FL 33830"
+      ],
+      "hqPhone": "(863) 519-2300",
+      "address": "801 North Broadway Avenue, Bartow, FL 33830",
+      "phone": "(863) 519-2300",
+      "website": "https://www.fdot.gov/agencyresources/districts/index.shtm",
+      "publicUrl": "https://www.fdot.gov/agencyresources/districts/index.shtm"
+    },
+    {
+      "id": "2",
+      "name": "FDOT District 2",
+      "shortName": "District 2",
+      "headquarters": "Lake City, FL",
+      "districtLeadId": "bill-faust",
+      "color": "#80baf2",
+      "counties": [
+        "Alachua",
+        "Baker",
+        "Bradford",
+        "Clay",
+        "Columbia",
+        "Dixie",
+        "Duval",
+        "Gilchrist",
+        "Hamilton",
+        "Lafayette",
+        "Levy",
+        "Madison",
+        "Nassau",
+        "Putnam",
+        "St Johns",
+        "Suwannee",
+        "Taylor",
+        "Union"
+      ],
+      "services": [
+        {
+          "id": "d2-survey",
+          "key": "survey",
+          "name": "Survey",
+          "leaderId": "bill-faust",
+          "iconKey": "survey",
+          "color": "#f28d3c",
+          "accentColor": "#f28d3c",
+          "description": "Regional survey coverage from the Regions table."
+        },
+        {
+          "id": "d2-sue",
+          "key": "sue",
+          "name": "SUE",
+          "leaderId": "albert-taylor",
+          "iconKey": "sue",
+          "color": "#8c63b6",
+          "accentColor": "#8c63b6",
+          "description": "SUE leader coverage: North East."
+        },
+        {
+          "id": "d2-lidar",
+          "key": "lidar",
+          "name": "LiDAR",
+          "leaderId": "bryant-king",
+          "iconKey": "lidar",
+          "color": "#6aa84f",
+          "accentColor": "#6aa84f",
+          "description": "LiDAR leader coverage derived from imported People rows."
+        },
+        {
+          "id": "d2-gis",
+          "key": "gis",
+          "name": "GIS",
+          "leaderId": "mark-brown",
+          "iconKey": "gis",
+          "color": "#2f80d6",
+          "accentColor": "#2f80d6",
+          "description": "GIS leader coverage derived from imported People rows."
+        }
+      ],
+      "notes": "Regions: North East | Regional Leader(s): Bill Faust | Area Leader(s) listed by county: Thomas Tracz, Bill Faust, Pablo Ferrari",
+      "mapViewBox": "0 0 720 650",
+      "hqAddress": [
+        "1109 South Marion Avenue",
+        "Lake City, FL 32025"
+      ],
+      "hqPhone": "(386) 758-3700",
+      "address": "1109 South Marion Avenue, Lake City, FL 32025",
+      "phone": "(386) 758-3700",
+      "website": "https://www.fdot.gov/agencyresources/districts/index.shtm",
+      "publicUrl": "https://www.fdot.gov/agencyresources/districts/index.shtm"
+    },
+    {
+      "id": "3",
+      "name": "FDOT District 3",
+      "shortName": "District 3",
+      "headquarters": "Chipley, FL",
+      "districtLeadId": "jeff-lance",
+      "color": "#a993d6",
+      "counties": [
+        "Bay",
+        "Calhoun",
+        "Escambia",
+        "Franklin",
+        "Gadsden",
+        "Gulf",
+        "Holmes",
+        "Jackson",
+        "Jefferson",
+        "Leon",
+        "Liberty",
+        "Okaloosa",
+        "Santa Rosa",
+        "Wakulla",
+        "Walton",
+        "Washington"
+      ],
+      "services": [
+        {
+          "id": "d3-survey",
+          "key": "survey",
+          "name": "Survey",
+          "leaderId": "jeff-lance",
+          "iconKey": "survey",
+          "color": "#f28d3c",
+          "accentColor": "#f28d3c",
+          "description": "Regional survey coverage from the Regions table."
+        },
+        {
+          "id": "d3-sue",
+          "key": "sue",
+          "name": "SUE",
+          "leaderId": "ryan-grab",
+          "iconKey": "sue",
+          "color": "#8c63b6",
+          "accentColor": "#8c63b6",
+          "description": "SUE leader coverage: North West."
+        },
+        {
+          "id": "d3-lidar",
+          "key": "lidar",
+          "name": "LiDAR",
+          "leaderId": "bryant-king",
+          "iconKey": "lidar",
+          "color": "#6aa84f",
+          "accentColor": "#6aa84f",
+          "description": "LiDAR leader coverage derived from imported People rows."
+        },
+        {
+          "id": "d3-gis",
+          "key": "gis",
+          "name": "GIS",
+          "leaderId": "mark-brown",
+          "iconKey": "gis",
+          "color": "#2f80d6",
+          "accentColor": "#2f80d6",
+          "description": "GIS leader coverage derived from imported People rows."
+        }
+      ],
+      "notes": "Regions: North West | Regional Leader(s): Jeff Lance | Area Leader(s) listed by county: Brandon Welch, Malcom Minchin, James Holland",
+      "mapViewBox": "0 0 720 650",
+      "hqAddress": [
+        "1074 Highway 90",
+        "Chipley, FL 32428"
+      ],
+      "hqPhone": "(850) 638-0250",
+      "address": "1074 Highway 90, Chipley, FL 32428",
+      "phone": "(850) 638-0250",
+      "website": "https://www.fdot.gov/agencyresources/districts/index.shtm",
+      "publicUrl": "https://www.fdot.gov/agencyresources/districts/index.shtm"
+    },
+    {
+      "id": "4",
+      "name": "FDOT District 4",
+      "shortName": "District 4",
+      "headquarters": "Fort Lauderdale, FL",
+      "districtLeadId": "frank-lopez",
+      "color": "#dd8fc3",
+      "counties": [
+        "Broward",
+        "Indian River",
+        "Martin",
+        "Palm Beach",
+        "St Lucie"
+      ],
+      "services": [
+        {
+          "id": "d4-survey",
+          "key": "survey",
+          "name": "Survey",
+          "leaderId": "frank-lopez",
+          "iconKey": "survey",
+          "color": "#f28d3c",
+          "accentColor": "#f28d3c",
+          "description": "Regional survey coverage from the Regions table."
+        },
+        {
+          "id": "d4-sue",
+          "key": "sue",
+          "name": "SUE",
+          "leaderId": "charles-heise",
+          "iconKey": "sue",
+          "color": "#8c63b6",
+          "accentColor": "#8c63b6",
+          "description": "SUE leader coverage: South East."
+        },
+        {
+          "id": "d4-lidar",
+          "key": "lidar",
+          "name": "LiDAR",
+          "leaderId": "bryant-king",
+          "iconKey": "lidar",
+          "color": "#6aa84f",
+          "accentColor": "#6aa84f",
+          "description": "LiDAR leader coverage derived from imported People rows."
+        },
+        {
+          "id": "d4-gis",
+          "key": "gis",
+          "name": "GIS",
+          "leaderId": "mark-brown",
+          "iconKey": "gis",
+          "color": "#2f80d6",
+          "accentColor": "#2f80d6",
+          "description": "GIS leader coverage derived from imported People rows."
+        },
+        {
+          "id": "d4-uas",
+          "key": "uas",
+          "name": "UAS",
+          "leaderId": "ryan-ianacone",
+          "iconKey": "uas",
+          "color": "#0e9f6e",
+          "accentColor": "#0e9f6e",
+          "description": "UAS leader coverage derived from imported People rows."
+        }
+      ],
+      "notes": "Regions: South East | Regional Leader(s): Frank Lopez | Area Leader(s) listed by county: Maria Barboza",
+      "mapViewBox": "0 0 720 650",
+      "hqAddress": [
+        "3400 West Commercial Boulevard",
+        "Fort Lauderdale, FL 33309"
+      ],
+      "hqPhone": "(954) 486-1400",
+      "address": "3400 West Commercial Boulevard, Fort Lauderdale, FL 33309",
+      "phone": "(954) 486-1400",
+      "website": "https://www.fdot.gov/agencyresources/districts/index.shtm",
+      "publicUrl": "https://www.fdot.gov/agencyresources/districts/index.shtm"
+    },
+    {
+      "id": "5",
+      "name": "FDOT District 5",
+      "shortName": "District 5",
+      "headquarters": "DeLand, FL",
+      "districtLeadId": "frank-lopez",
+      "color": "#f28d3c",
+      "counties": [
+        "Brevard",
+        "Flagler",
+        "Lake",
+        "Marion",
+        "Orange",
+        "Osceola",
+        "Seminole",
+        "Sumter",
+        "Volusia"
+      ],
+      "services": [
+        {
+          "id": "d5-survey",
+          "key": "survey",
+          "name": "Survey",
+          "leaderId": "frank-lopez",
+          "iconKey": "survey",
+          "color": "#f28d3c",
+          "accentColor": "#f28d3c",
+          "description": "Regional survey coverage from the Regions table."
+        },
+        {
+          "id": "d5-sue",
+          "key": "sue",
+          "name": "SUE",
+          "leaderId": "charles-heise",
+          "iconKey": "sue",
+          "color": "#8c63b6",
+          "accentColor": "#8c63b6",
+          "description": "SUE leader coverage: South East."
+        },
+        {
+          "id": "d5-lidar",
+          "key": "lidar",
+          "name": "LiDAR",
+          "leaderId": "bryant-king",
+          "iconKey": "lidar",
+          "color": "#6aa84f",
+          "accentColor": "#6aa84f",
+          "description": "LiDAR leader coverage derived from imported People rows."
+        },
+        {
+          "id": "d5-gis",
+          "key": "gis",
+          "name": "GIS",
+          "leaderId": "mark-brown",
+          "iconKey": "gis",
+          "color": "#2f80d6",
+          "accentColor": "#2f80d6",
+          "description": "GIS leader coverage derived from imported People rows."
+        },
+        {
+          "id": "d5-uas",
+          "key": "uas",
+          "name": "UAS",
+          "leaderId": "ryan-ianacone",
+          "iconKey": "uas",
+          "color": "#0e9f6e",
+          "accentColor": "#0e9f6e",
+          "description": "UAS leader coverage derived from imported People rows."
+        }
+      ],
+      "notes": "Regions: South East | Regional Leader(s): Frank Lopez | Area Leader(s) listed by county: Barry Cabaniss, Harland Fogle, Gabriel Colon, Frank Lopez",
+      "mapViewBox": "390 160 290 295",
+      "address": "719 South Woodland Boulevard, DeLand, FL 32720",
+      "phone": "(386) 943-5000",
+      "publicUrl": "https://www.fdot.gov/info/moredot/districts/dist5.shtm",
+      "hqAddress": [
+        "719 South Woodland Boulevard",
+        "DeLand, FL 32720"
+      ],
+      "hqPhone": "(386) 943-5000",
+      "website": "https://www.fdot.gov/agencyresources/districts/index.shtm"
+    },
+    {
+      "id": "6",
+      "name": "FDOT District 6",
+      "shortName": "District 6",
+      "headquarters": "Miami, FL",
+      "districtLeadId": "district-6-lead-tbd",
+      "color": "#62c7c8",
+      "counties": [
+        "Miami-Dade",
+        "Monroe"
+      ],
+      "services": [
+        {
+          "id": "d6-survey",
+          "key": "survey",
+          "name": "Survey",
+          "leaderId": "district-6-lead-tbd",
+          "iconKey": "survey",
+          "color": "#f28d3c",
+          "accentColor": "#f28d3c",
+          "description": "Regional survey coverage from the Regions table."
+        },
+        {
+          "id": "d6-lidar",
+          "key": "lidar",
+          "name": "LiDAR",
+          "leaderId": "bryant-king",
+          "iconKey": "lidar",
+          "color": "#6aa84f",
+          "accentColor": "#6aa84f",
+          "description": "LiDAR leader coverage derived from imported People rows."
+        },
+        {
+          "id": "d6-gis",
+          "key": "gis",
+          "name": "GIS",
+          "leaderId": "mark-brown",
+          "iconKey": "gis",
+          "color": "#2f80d6",
+          "accentColor": "#2f80d6",
+          "description": "GIS leader coverage derived from imported People rows."
+        }
+      ],
+      "notes": "Regions: South | Regional Leader(s): TBD | Area Leader(s) listed by county: TBD",
+      "mapViewBox": "445 430 245 215",
+      "hqAddress": [
+        "1000 Northwest 111th Avenue",
+        "Miami, FL 33172"
+      ],
+      "hqPhone": "(305) 470-5100",
+      "address": "1000 Northwest 111th Avenue, Miami, FL 33172",
+      "phone": "(305) 470-5100",
+      "website": "https://www.fdot.gov/agencyresources/districts/index.shtm",
+      "publicUrl": "https://www.fdot.gov/agencyresources/districts/index.shtm"
+    },
+    {
+      "id": "7",
+      "name": "FDOT District 7",
+      "shortName": "District 7",
+      "headquarters": "Tampa, FL",
+      "districtLeadId": "brent-bass",
+      "color": "#99c77e",
+      "counties": [
+        "Citrus",
+        "Hernando",
+        "Hillsborough",
+        "Pasco",
+        "Pinellas"
+      ],
+      "services": [
+        {
+          "id": "d7-survey",
+          "key": "survey",
+          "name": "Survey",
+          "leaderId": "brent-bass",
+          "iconKey": "survey",
+          "color": "#f28d3c",
+          "accentColor": "#f28d3c",
+          "description": "Regional survey coverage from the Regions table."
+        },
+        {
+          "id": "d7-sue",
+          "key": "sue",
+          "name": "SUE",
+          "leaderId": "tom-yocum",
+          "iconKey": "sue",
+          "color": "#8c63b6",
+          "accentColor": "#8c63b6",
+          "description": "SUE leader coverage: South West."
+        },
+        {
+          "id": "d7-lidar",
+          "key": "lidar",
+          "name": "LiDAR",
+          "leaderId": "bryant-king",
+          "iconKey": "lidar",
+          "color": "#6aa84f",
+          "accentColor": "#6aa84f",
+          "description": "LiDAR leader coverage derived from imported People rows."
+        },
+        {
+          "id": "d7-gis",
+          "key": "gis",
+          "name": "GIS",
+          "leaderId": "mark-brown",
+          "iconKey": "gis",
+          "color": "#2f80d6",
+          "accentColor": "#2f80d6",
+          "description": "GIS leader coverage derived from imported People rows."
+        }
+      ],
+      "notes": "Regions: South West | Regional Leader(s): Brent Bass | Area Leader(s) listed by county: David Charles",
+      "mapViewBox": "260 210 255 255",
+      "hqAddress": [
+        "11201 North McKinley Drive",
+        "Tampa, FL 33612"
+      ],
+      "hqPhone": "(813) 975-6000",
+      "address": "11201 North McKinley Drive, Tampa, FL 33612",
+      "phone": "(813) 975-6000",
+      "website": "https://www.fdot.gov/agencyresources/districts/index.shtm",
+      "publicUrl": "https://www.fdot.gov/agencyresources/districts/index.shtm"
+    },
+    {
+      "id": "NC-1",
+      "name": "North Carolina",
+      "shortName": "North Carolina",
+      "headquarters": "North Carolina",
+      "districtLeadId": "august-thick",
+      "color": "#536f8f",
+      "counties": [
+        "Raleigh",
+        "Troutman"
+      ],
+      "services": [
+        {
+          "id": "dNC-1-survey",
+          "key": "survey",
+          "name": "Survey",
+          "leaderId": "august-thick",
+          "iconKey": "survey",
+          "color": "#f28d3c",
+          "accentColor": "#f28d3c",
+          "description": "Regional survey coverage from the Regions table."
+        },
+        {
+          "id": "dNC-1-sue",
+          "key": "sue",
+          "name": "SUE",
+          "leaderId": "charlie-smith",
+          "iconKey": "sue",
+          "color": "#8c63b6",
+          "accentColor": "#8c63b6",
+          "description": "SUE leader coverage: North Carolina."
+        },
+        {
+          "id": "dNC-1-lidar",
+          "key": "lidar",
+          "name": "LiDAR",
+          "leaderId": "bryant-king",
+          "iconKey": "lidar",
+          "color": "#6aa84f",
+          "accentColor": "#6aa84f",
+          "description": "LiDAR leader coverage derived from imported People rows."
+        },
+        {
+          "id": "dNC-1-gis",
+          "key": "gis",
+          "name": "GIS",
+          "leaderId": "mark-brown",
+          "iconKey": "gis",
+          "color": "#2f80d6",
+          "accentColor": "#2f80d6",
+          "description": "GIS leader coverage derived from imported People rows."
+        }
+      ],
+      "notes": "North Carolina; area leaders derived from imported People rows."
+    }
+  ],
+  "people": {
+    "albert-taylor": {
+      "id": "albert-taylor",
+      "name": "Albert Taylor",
+      "title": "Jacksonville SUE Leader",
+      "service": "SUE",
+      "email": "albert.taylor@drmp.com",
+      "phone": "904.224.2923",
+      "location": "Jacksonville",
+      "avatar": "assets/people/albert-taylor.svg",
+      "reports": [],
+      "tags": [
+        "Survey",
+        "Jacksonville Survey",
+        "SUE",
+        "North East",
+        "Service Leader"
+      ],
+      "department": "Survey",
+      "division": "Jacksonville Survey",
+      "regions": [
+        "North East"
+      ],
+      "isRegionalLeader": false,
+      "isAreaLeader": false,
+      "isServiceLeader": true,
+      "reportsToPerson": "Ryan Grab",
+      "managerId": "ryan-grab",
+      "photoUrl": "assets/headshots/albert.taylor.jpg",
+      "isVicePresident": false,
+      "isPlaceholder": false,
+      "bio": null
+    },
+    "august-thick": {
+      "id": "august-thick",
+      "name": "August Thick",
+      "title": "Vice President/Assistant Director of Survey",
+      "service": "North Carolina Survey",
+      "email": "athick@drmp.com",
+      "phone": "980.337.2975",
+      "location": "North Carolina",
+      "reports": [
+        "aj-perkinson",
+        "dylan-atkins"
+      ],
+      "tags": [
+        "Survey",
+        "North Carolina Survey",
+        "All",
+        "Vice President"
+      ],
+      "department": "Survey",
+      "division": "North Carolina Survey",
+      "regions": [
+        "All",
+        "North Carolina"
+      ],
+      "isVicePresident": true,
+      "isRegionalLeader": false,
+      "isAreaLeader": false,
+      "isServiceLeader": false,
+      "photoUrl": "assets/headshots/athick.jpg",
+      "isPlaceholder": false
+    },
+    "area-leader-tbd": {
+      "id": "area-leader-tbd",
+      "name": "Area Leader TBD",
+      "title": "Area Leader TBD",
+      "service": "Survey",
+      "avatar": "assets/people/area-leader-tbd.svg",
+      "reports": [],
+      "isPlaceholder": true,
+      "tags": [
+        "Area Leader",
+        "Area Leader TBD"
+      ]
+    },
+    "barry-cabaniss": {
+      "id": "barry-cabaniss",
+      "name": "Barry Cabaniss",
+      "title": "Vice President/ Merrit Island Department Manager",
+      "service": "Merritt Island Survey",
+      "avatar": "assets/people/barry-cabaniss.svg",
+      "reports": [],
+      "isPlaceholder": false,
+      "tags": [
+        "Survey",
+        "Merritt Island Survey",
+        "South East",
+        "Regional Leader",
+        "Area Leader",
+        "Service Leader"
+      ],
+      "email": "bcabaniss@drmp.com",
+      "phone": "321.453.0010",
+      "location": "Merrit Island",
+      "photoUrl": "assets/headshots/bcabaniss.jpg",
+      "department": "Survey",
+      "division": "Merritt Island Survey",
+      "regions": [
+        "South East"
+      ],
+      "isVicePresident": false,
+      "isRegionalLeader": true,
+      "isAreaLeader": true,
+      "isServiceLeader": true,
+      "reportsToPerson": "Joe Di Benedetto",
+      "managerId": "joe-di-benedetto"
+    },
+    "bill-curtis": {
+      "id": "bill-curtis",
+      "name": "Bill Curtis",
+      "title": "Senior Project Manager",
+      "service": "Tampa Survey",
+      "location": "Tampa",
+      "avatar": "assets/people/bill-curtis.svg",
+      "reports": [],
+      "tags": [
+        "Survey",
+        "Tampa Survey",
+        "South West",
+        "Area Leader"
+      ],
+      "department": "Survey",
+      "division": "Tampa Survey",
+      "regions": [
+        "South West"
+      ],
+      "isRegionalLeader": false,
+      "isAreaLeader": true,
+      "isServiceLeader": false,
+      "reportsToPerson": "Brent Bass",
+      "managerId": "brent-bass",
+      "email": "Frederick.Curtis@drmp.com",
+      "phone": "239.206.5544",
+      "isVicePresident": false,
+      "isPlaceholder": false,
+      "photoUrl": "assets/headshots/frederick.curtis.jpg"
+    },
+    "bill-faust": {
+      "id": "bill-faust",
+      "name": "Bill Faust",
+      "title": "Vice President/NEFL Regional Survey Manager",
+      "service": "Jacksonville Survey",
+      "email": "cfaust@drmp.com",
+      "phone": "904.224.2905",
+      "location": "Jacksonville",
+      "avatar": "assets/people/bill-faust.svg",
+      "reports": [
+        "pablo-ferrari",
+        "ryan-grab",
+        "thomas-tracz"
+      ],
+      "tags": [
+        "Survey",
+        "Jacksonville Survey",
+        "North East",
+        "Regional Leader",
+        "Area Leader"
+      ],
+      "department": "Survey",
+      "division": "Jacksonville Survey",
+      "regions": [
+        "North East"
+      ],
+      "isRegionalLeader": true,
+      "isAreaLeader": true,
+      "isServiceLeader": false,
+      "reportsToPerson": "Joe Di Benedetto",
+      "managerId": "joe-di-benedetto",
+      "isVicePresident": false,
+      "isPlaceholder": false,
+      "photoUrl": "assets/headshots/cfaust.jpg"
+    },
+    "brent-bass": {
+      "id": "brent-bass",
+      "name": "Brent Bass",
+      "title": "Vice President/ SWFL Regional Survey Manager",
+      "service": "Geospatial Services",
+      "email": "BBass@drmp.com",
+      "phone": "407.362.1236",
+      "location": "Orlando",
+      "avatar": "assets/people/brent-bass.svg",
+      "reports": [
+        "bill-curtis",
+        "bryant-king",
+        "david-charles",
+        "mark-brown",
+        "ryan-ianacone"
+      ],
+      "tags": [
+        "Survey",
+        "Geospatial Services",
+        "South West",
+        "Regional Leader",
+        "Area Leader",
+        "Service Leader"
+      ],
+      "department": "Survey",
+      "division": "Geospatial Services",
+      "regions": [
+        "South West"
+      ],
+      "isRegionalLeader": true,
+      "isAreaLeader": true,
+      "isServiceLeader": true,
+      "reportsToPerson": "Joe Di Benedetto",
+      "managerId": "joe-di-benedetto",
+      "photoUrl": "assets/headshots/bbass.jpg",
+      "isVicePresident": false,
+      "isPlaceholder": false
+    },
+    "bryant-king": {
+      "id": "bryant-king",
+      "name": "Bryant King",
+      "title": "Mobile LiDAR Group Leader",
+      "service": "LiDAR",
+      "location": "Orlando",
+      "avatar": "assets/people/bryant-king.svg",
+      "reports": [],
+      "tags": [
+        "Survey",
+        "Geospatial Services",
+        "LiDAR",
+        "All",
+        "Service Leader"
+      ],
+      "department": "Survey",
+      "division": "Geospatial Services",
+      "regions": [
+        "All"
+      ],
+      "isRegionalLeader": false,
+      "isAreaLeader": false,
+      "isServiceLeader": true,
+      "reportsToPerson": "Brent Bass",
+      "managerId": "brent-bass",
+      "email": "BNKing@drmp.com",
+      "phone": "407.362.1273",
+      "isVicePresident": false,
+      "isPlaceholder": false,
+      "photoUrl": "assets/headshots/bnking.jpg"
+    },
+    "charles-heise": {
+      "id": "charles-heise",
+      "name": "Charles Heise",
+      "title": "SUE Group Leader",
+      "service": "SUE",
+      "email": "charles.heise@drmp.com",
+      "phone": "407.362.1270",
+      "location": "Orlando",
+      "avatar": "assets/people/charles-heise.svg",
+      "reports": [],
+      "tags": [
+        "Survey",
+        "Orlando Survey",
+        "SUE",
+        "South East",
+        "Service Leader"
+      ],
+      "department": "Survey",
+      "division": "Orlando Survey",
+      "regions": [
+        "South East"
+      ],
+      "isRegionalLeader": false,
+      "isAreaLeader": false,
+      "isServiceLeader": true,
+      "reportsToPerson": "Frank Lopez",
+      "managerId": "frank-lopez",
+      "photoUrl": "assets/headshots/charles.heise.jpg",
+      "isVicePresident": false,
+      "isPlaceholder": false,
+      "bio": null
+    },
+    "danielle": {
+      "id": "danielle",
+      "name": "Danielle",
+      "title": "Area Leader",
+      "service": "Survey",
+      "avatar": "assets/people/danielle.svg",
+      "reports": [],
+      "isPlaceholder": true,
+      "tags": [
+        "Area Leader"
+      ]
+    },
+    "david-charles": {
+      "id": "david-charles",
+      "name": "David Charles",
+      "title": "Tampa Survey Department Manager",
+      "service": "Tampa Survey",
+      "location": "Tampa",
+      "avatar": "assets/people/david-charles.svg",
+      "reports": [],
+      "tags": [
+        "Survey",
+        "Tampa Survey",
+        "South West",
+        "Area Leader"
+      ],
+      "department": "Survey",
+      "division": "Tampa Survey",
+      "regions": [
+        "South West"
+      ],
+      "isRegionalLeader": false,
+      "isAreaLeader": true,
+      "isServiceLeader": false,
+      "reportsToPerson": "Brent Bass",
+      "managerId": "brent-bass",
+      "email": "dpcharles@drmp.com",
+      "phone": "813.321.5786",
+      "isVicePresident": false,
+      "isPlaceholder": false,
+      "photoUrl": "assets/headshots/dpcharles.jpg"
+    },
+    "frank-lopez": {
+      "id": "frank-lopez",
+      "name": "Frank Lopez",
+      "title": "Vice President/SEFL Regional Survey Manager",
+      "service": "Orlando Survey",
+      "email": "FRLopez@drmp.com",
+      "phone": "407.362.1406",
+      "location": "Orlando",
+      "avatar": "assets/people/frank-lopez.svg",
+      "reports": [
+        "charles-heise",
+        "gabriel-colon",
+        "harland-fogle",
+        "maria-barboza"
+      ],
+      "tags": [
+        "Survey",
+        "Orlando Survey",
+        "South East",
+        "Regional Leader"
+      ],
+      "department": "Survey",
+      "division": "Orlando Survey",
+      "regions": [
+        "South East"
+      ],
+      "isRegionalLeader": true,
+      "isAreaLeader": false,
+      "isServiceLeader": false,
+      "reportsToPerson": "Joe Di Benedetto",
+      "managerId": "joe-di-benedetto",
+      "isVicePresident": false,
+      "isPlaceholder": false,
+      "photoUrl": "assets/headshots/frlopez.jpg"
+    },
+    "jeff-lance": {
+      "id": "jeff-lance",
+      "name": "Jeff Lance",
+      "title": "Vice President/ NWFL Regional Survey Manager",
+      "service": "Chipley Survey",
+      "email": "jlance@drmp.com",
+      "phone": "850.600.5002",
+      "location": "Chipley",
+      "avatar": "assets/people/jeff-lance.svg",
+      "reports": [
+        "brandon-welch",
+        "james-holland",
+        "malcom-minchin"
+      ],
+      "tags": [
+        "Survey",
+        "Chipley Survey",
+        "North West",
+        "Regional Leader"
+      ],
+      "department": "Survey",
+      "division": "Chipley Survey",
+      "regions": [
+        "North West"
+      ],
+      "isRegionalLeader": true,
+      "isAreaLeader": false,
+      "isServiceLeader": false,
+      "reportsToPerson": "Joe Di Benedetto",
+      "managerId": "joe-di-benedetto",
+      "photoUrl": "assets/headshots/jlance.jpg",
+      "isVicePresident": false,
+      "isPlaceholder": false
+    },
+    "joe-di-benedetto": {
+      "id": "joe-di-benedetto",
+      "name": "Joe Di Benedetto",
+      "title": "Senior Vice President/Director of Survey",
+      "service": "Orlando Survey",
+      "email": "jdibenedetto@drmp.com",
+      "phone": "407.362.1320",
+      "location": "Orlando",
+      "reports": [
+        "barry-cabaniss",
+        "bill-faust",
+        "brent-bass",
+        "frank-lopez",
+        "jeff-lance"
+      ],
+      "avatar": "assets/people/joe-di-benedetto.svg",
+      "tags": [
+        "Survey",
+        "Orlando Survey",
+        "All",
+        "Vice President"
+      ],
+      "department": "Survey",
+      "division": "Orlando Survey",
+      "regions": [
+        "All"
+      ],
+      "isVicePresident": true,
+      "isRegionalLeader": false,
+      "isAreaLeader": false,
+      "isServiceLeader": false,
+      "photoUrl": "assets/headshots/jdibenedetto.jpg",
+      "isPlaceholder": false
+    },
+    "maria-barboza": {
+      "id": "maria-barboza",
+      "name": "Maria Barboza",
+      "title": "Boca Raton Survey Office Leader",
+      "service": "Boca Survey",
+      "email": "Maria.Barboza@drmp.com",
+      "phone": "561.208.6783",
+      "location": "Boca",
+      "avatar": "assets/people/maria-barboza.svg",
+      "reports": [],
+      "tags": [
+        "Survey",
+        "Boca Survey",
+        "South",
+        "Area Leader"
+      ],
+      "department": "Survey",
+      "division": "Boca Survey",
+      "regions": [
+        "South"
+      ],
+      "isRegionalLeader": false,
+      "isAreaLeader": true,
+      "isServiceLeader": false,
+      "reportsToPerson": "Frank Lopez",
+      "managerId": "frank-lopez",
+      "photoUrl": "assets/headshots/maria.barboza.jpg",
+      "isVicePresident": false,
+      "isPlaceholder": false
+    },
+    "mark-brown": {
+      "id": "mark-brown",
+      "name": "Mark Brown",
+      "title": "GIS Group Leader",
+      "service": "GIS",
+      "email": "mbrown@drmp.com",
+      "phone": "407.362.1268",
+      "location": "Orlando",
+      "avatar": "assets/people/mark-brown.svg",
+      "reports": [
+        "ravneet-kathuria"
+      ],
+      "tags": [
+        "Survey",
+        "Geospatial Services",
+        "GIS",
+        "All",
+        "Service Leader"
+      ],
+      "department": "Survey",
+      "division": "Geospatial Services",
+      "regions": [
+        "All"
+      ],
+      "isRegionalLeader": false,
+      "isAreaLeader": false,
+      "isServiceLeader": true,
+      "reportsToPerson": "Brent Bass",
+      "managerId": "brent-bass",
+      "photoUrl": "assets/headshots/mbrown.jpg",
+      "isVicePresident": false,
+      "isPlaceholder": false
+    },
+    "ravneet-kathuria": {
+      "id": "ravneet-kathuria",
+      "name": "Ravneet Kathuria",
+      "title": "GIS Analyst",
+      "service": "GIS",
+      "email": "Ravneet.Kathuria@drmp.com",
+      "phone": "407.236.1148",
+      "location": "Orlando",
+      "avatar": "assets/people/ravneet-kathuria.svg",
+      "reports": [],
+      "tags": [
+        "Survey",
+        "Geospatial Services",
+        "GIS",
+        "All"
+      ],
+      "department": "Survey",
+      "division": "Geospatial Services",
+      "regions": [
+        "All"
+      ],
+      "isRegionalLeader": false,
+      "isAreaLeader": false,
+      "isServiceLeader": false,
+      "reportsToPerson": "Mark Brown",
+      "managerId": "mark-brown",
+      "photoUrl": "assets/headshots/ravneet.kathuria.jpg",
+      "isVicePresident": false,
+      "isPlaceholder": false
+    },
+    "ryan-grab": {
+      "id": "ryan-grab",
+      "name": "Ryan Grab",
+      "title": "Assistant Subsurface Utility Engineering Division",
+      "service": "SUE",
+      "email": "rgrab@drmp.com",
+      "phone": "904.224.2914",
+      "location": "Jacksonville",
+      "avatar": "assets/people/ryan-grab.svg",
+      "reports": [
+        "albert-taylor"
+      ],
+      "tags": [
+        "Survey",
+        "Jacksonville Survey",
+        "SUE",
+        "North West",
+        "Service Leader"
+      ],
+      "department": "Survey",
+      "division": "Jacksonville Survey",
+      "regions": [
+        "North West"
+      ],
+      "isRegionalLeader": false,
+      "isAreaLeader": true,
+      "isServiceLeader": true,
+      "reportsToPerson": "Bill Faust",
+      "managerId": "bill-faust",
+      "photoUrl": "assets/headshots/rgrab.jpg",
+      "isVicePresident": false,
+      "isPlaceholder": false,
+      "bio": null
+    },
+    "ryan-ianacone": {
+      "id": "ryan-ianacone",
+      "name": "Ryan Ianacone",
+      "title": "Survey Analyst",
+      "service": "UAS",
+      "email": "rianacone@drmp.com",
+      "phone": "407.362.1358",
+      "location": "Orlando",
+      "avatar": "assets/people/ryan-ianacone.svg",
+      "reports": [],
+      "tags": [
+        "Survey",
+        "Geospatial Services",
+        "UAS",
+        "South East",
+        "Service Leader"
+      ],
+      "department": "Survey",
+      "division": "Geospatial Services",
+      "regions": [
+        "South East"
+      ],
+      "isRegionalLeader": false,
+      "isAreaLeader": false,
+      "isServiceLeader": true,
+      "reportsToPerson": "Brent Bass",
+      "managerId": "brent-bass",
+      "photoUrl": "assets/headshots/rianacone.jpg",
+      "isVicePresident": false,
+      "isPlaceholder": false
+    },
+    "district-6-lead-tbd": {
+      "id": "district-6-lead-tbd",
+      "name": "South Leader TBD",
+      "title": "Regional Leader TBD",
+      "service": "Survey",
+      "location": "Miami, FL",
+      "avatar": "assets/people/tbd.svg",
+      "reports": [],
+      "tags": [
+        "South",
+        "Regional Leader"
+      ],
+      "isPlaceholder": true
+    },
+    "brandon-welch": {
+      "id": "brandon-welch",
+      "name": "Brandon Welch",
+      "title": "Panama City Beach Survey Manager",
+      "reports": [],
+      "service": "Chipley Survey",
+      "email": "bwelch@drmp.com",
+      "phone": "850.600.5003",
+      "location": "Chipley",
+      "photoUrl": "assets/headshots/bwelch.jpg",
+      "tags": [
+        "Survey",
+        "Chipley Survey",
+        "North West",
+        "Area Leader"
+      ],
+      "department": "Survey",
+      "division": "Chipley Survey",
+      "regions": [
+        "North West"
+      ],
+      "isVicePresident": false,
+      "isRegionalLeader": false,
+      "isAreaLeader": true,
+      "isServiceLeader": false,
+      "reportsToPerson": "Jeff Lance",
+      "isPlaceholder": false,
+      "managerId": "jeff-lance"
+    },
+    "malcom-minchin": {
+      "id": "malcom-minchin",
+      "name": "Malcom Minchin",
+      "title": "Chipley Survey Manager",
+      "reports": [],
+      "service": "Chipley Survey",
+      "email": "mminchin@drmp.com",
+      "phone": "850-326-0115",
+      "location": "Chipley",
+      "photoUrl": "assets/headshots/mminchin.jpg",
+      "tags": [
+        "Survey",
+        "Chipley Survey",
+        "North West",
+        "Area Leader"
+      ],
+      "department": "Survey",
+      "division": "Chipley Survey",
+      "regions": [
+        "North West"
+      ],
+      "isVicePresident": false,
+      "isRegionalLeader": false,
+      "isAreaLeader": true,
+      "isServiceLeader": false,
+      "reportsToPerson": "Jeff Lance",
+      "isPlaceholder": false,
+      "managerId": "jeff-lance"
+    },
+    "james-holland": {
+      "id": "james-holland",
+      "name": "James Holland",
+      "title": "Pensacola Survey Manager",
+      "reports": [],
+      "service": "Pensacola Survey",
+      "email": "jholland@drmp.com",
+      "phone": "850.208.6605",
+      "location": "Pensacola",
+      "photoUrl": "assets/headshots/jholland.jpg",
+      "tags": [
+        "Survey",
+        "Pensacola Survey",
+        "North West",
+        "Area Leader"
+      ],
+      "department": "Survey",
+      "division": "Pensacola Survey",
+      "regions": [
+        "North West"
+      ],
+      "isVicePresident": false,
+      "isRegionalLeader": false,
+      "isAreaLeader": true,
+      "isServiceLeader": false,
+      "reportsToPerson": "Jeff Lance",
+      "isPlaceholder": false,
+      "managerId": "jeff-lance"
+    },
+    "harland-fogle": {
+      "id": "harland-fogle",
+      "name": "Harland Fogle",
+      "title": "Project Manager",
+      "reports": [],
+      "service": "Deland Survey",
+      "email": "harland.fogle@drmp.com",
+      "phone": "407.362.1207",
+      "location": "DeLand",
+      "photoUrl": "assets/headshots/harland.fogle.jpg",
+      "tags": [
+        "Survey",
+        "Deland Survey",
+        "South East",
+        "Area Leader"
+      ],
+      "department": "Survey",
+      "division": "Deland Survey",
+      "regions": [
+        "South East"
+      ],
+      "isVicePresident": false,
+      "isRegionalLeader": false,
+      "isAreaLeader": true,
+      "isServiceLeader": false,
+      "reportsToPerson": "Frank Lopez",
+      "isPlaceholder": false,
+      "managerId": "frank-lopez"
+    },
+    "gabriel-colon": {
+      "id": "gabriel-colon",
+      "name": "Gabriel Colon",
+      "title": "Senior Project Manager",
+      "reports": [],
+      "service": "Orlando Survey",
+      "email": "gcolon@drmp.com",
+      "phone": "407.362.1391",
+      "location": "Orlando",
+      "photoUrl": "assets/headshots/gcolon.jpg",
+      "tags": [
+        "Survey",
+        "Orlando Survey",
+        "South East",
+        "Area Leader"
+      ],
+      "department": "Survey",
+      "division": "Orlando Survey",
+      "regions": [
+        "South East"
+      ],
+      "isVicePresident": false,
+      "isRegionalLeader": false,
+      "isAreaLeader": true,
+      "isServiceLeader": false,
+      "reportsToPerson": "Frank Lopez",
+      "isPlaceholder": false,
+      "managerId": "frank-lopez"
+    },
+    "thomas-tracz": {
+      "id": "thomas-tracz",
+      "name": "Thomas Tracz",
+      "title": "Senior Project Manager",
+      "reports": [],
+      "service": "Jacksonville Survey",
+      "email": "ttracz@drmp.com",
+      "phone": "352.204.9366",
+      "location": "Jacksonville",
+      "photoUrl": "assets/headshots/ttracz.jpg",
+      "tags": [
+        "Survey",
+        "Jacksonville Survey",
+        "North East",
+        "Area Leader"
+      ],
+      "department": "Survey",
+      "division": "Jacksonville Survey",
+      "regions": [
+        "North East"
+      ],
+      "isVicePresident": false,
+      "isRegionalLeader": false,
+      "isAreaLeader": true,
+      "isServiceLeader": false,
+      "reportsToPerson": "Bill Faust",
+      "isPlaceholder": false,
+      "managerId": "bill-faust"
+    },
+    "pablo-ferrari": {
+      "id": "pablo-ferrari",
+      "name": "Pablo Ferrari",
+      "title": "Vice President",
+      "reports": [],
+      "service": "St Augustine Survey",
+      "email": "pferrari@drmp.com",
+      "phone": "904.224.2906",
+      "location": "St Augustine",
+      "photoUrl": "assets/headshots/pferrari.jpg",
+      "tags": [
+        "Survey",
+        "St Augustine Survey",
+        "North East",
+        "Area Leader"
+      ],
+      "department": "Survey",
+      "division": "St Augustine Survey",
+      "regions": [
+        "North East"
+      ],
+      "isVicePresident": false,
+      "isRegionalLeader": false,
+      "isAreaLeader": true,
+      "isServiceLeader": false,
+      "reportsToPerson": "Bill Faust",
+      "isPlaceholder": false,
+      "managerId": "bill-faust"
+    },
+    "aj-perkinson": {
+      "id": "aj-perkinson",
+      "name": "AJ Perkinson",
+      "title": "Raleigh Survey Manager",
+      "reports": [],
+      "service": "North Carolina Survey",
+      "email": "aj.perkinson@drmp.com",
+      "phone": "919.897.5442",
+      "location": "Raleigh",
+      "photoUrl": "assets/headshots/aj.perkinson.jpg",
+      "tags": [
+        "Survey",
+        "North Carolina Survey",
+        "North Carolina",
+        "Area Leader"
+      ],
+      "department": "Survey",
+      "division": "North Carolina Survey",
+      "regions": [
+        "North Carolina"
+      ],
+      "isVicePresident": false,
+      "isRegionalLeader": false,
+      "isAreaLeader": true,
+      "isServiceLeader": false,
+      "reportsToPerson": "August Thick",
+      "isPlaceholder": false,
+      "managerId": "august-thick"
+    },
+    "dylan-atkins": {
+      "id": "dylan-atkins",
+      "name": "Dylan Atkins",
+      "title": "Troutman Survey Department Manager",
+      "reports": [],
+      "service": "North Carolina Survey",
+      "email": "dylan.atkins@drmp.com",
+      "phone": "980.229.4107",
+      "location": "Troutman",
+      "photoUrl": "assets/headshots/dylan.atkins.jpg",
+      "tags": [
+        "Survey",
+        "North Carolina Survey",
+        "North Carolina",
+        "Area Leader"
+      ],
+      "department": "Survey",
+      "division": "North Carolina Survey",
+      "regions": [
+        "North Carolina"
+      ],
+      "isVicePresident": false,
+      "isRegionalLeader": false,
+      "isAreaLeader": true,
+      "isServiceLeader": false,
+      "reportsToPerson": "August Thick",
+      "isPlaceholder": false,
+      "managerId": "august-thick"
+    },
+    "charlie-smith": {
+      "id": "charlie-smith",
+      "name": "Charlie Smith",
+      "title": "Crew Chief",
+      "service": "SUE",
+      "email": "charlie.smith@drmp.com",
+      "phone": "980.229.4109",
+      "location": "Charlotte",
+      "photoUrl": null,
+      "bio": null,
+      "tags": [
+        "Survey",
+        "North Carolina Survey",
+        "SUE",
+        "North Carolina",
+        "Service Leader"
+      ],
+      "department": "Survey",
+      "division": "North Carolina Survey",
+      "regions": [
+        "North Carolina"
+      ],
+      "isServiceLeader": true,
+      "isPlaceholder": false,
+      "reportsToPerson": "August Thick",
+      "reports": []
+    },
+    "tom-yocum": {
+      "id": "tom-yocum",
+      "name": "Tom Yocum",
+      "title": "Subsurface Utility Engineering Group Leader",
+      "service": "SUE",
+      "email": "tyocom@drmp.com",
+      "phone": "813.321.5776",
+      "location": "Tampa",
+      "photoUrl": null,
+      "bio": null,
+      "tags": [
+        "Survey",
+        "Tampa Survey",
+        "SUE",
+        "South West",
+        "Service Leader"
+      ],
+      "department": "Survey",
+      "division": "Tampa Survey",
+      "regions": [
+        "South West"
+      ],
+      "isServiceLeader": true,
+      "isPlaceholder": false,
+      "reportsToPerson": "Joe Di Benedetto",
+      "reports": []
+    }
+  },
+  "defaultRegionId": "east-central",
+  "regionMappings": [
+    {
+      "id": "north-west",
+      "name": "North West Region",
+      "districtIds": [
+        "3"
+      ],
+      "color": "#9b86cf",
+      "labelX": 208,
+      "labelY": 58,
+      "viewBox": "0 0 430 150"
+    },
+    {
+      "id": "north-east",
+      "name": "North East Region",
+      "districtIds": [
+        "2"
+      ],
+      "color": "#6fa8dc",
+      "labelX": 510,
+      "labelY": 100,
+      "viewBox": "338 0 321 250"
+    },
+    {
+      "id": "south-west",
+      "name": "South West Region",
+      "districtIds": [
+        "1",
+        "7"
+      ],
+      "color": "#9fbf84",
+      "labelX": 465,
+      "labelY": 365,
+      "viewBox": "335 145 320 445"
+    },
+    {
+      "id": "east-central",
+      "name": "South East Region",
+      "districtIds": [
+        "4",
+        "5"
+      ],
+      "color": "#e6a36b",
+      "labelX": 610,
+      "labelY": 365,
+      "viewBox": "464 116 256 474"
+    },
+    {
+      "id": "south",
+      "name": "South Region",
+      "districtIds": [
+        "6"
+      ],
+      "color": "#79bdc4",
+      "labelX": 615,
+      "labelY": 570,
+      "viewBox": "482 468 238 182"
+    },
+    {
+      "id": "north-carolina",
+      "name": "North Carolina",
+      "districtIds": [
+        "NC-1"
+      ],
+      "color": "#536f8f",
+      "labelX": 600,
+      "labelY": 120,
+      "viewBox": "0 0 720 650"
+    }
+  ],
+  "regions": [
+    {
+      "id": "north-west",
+      "name": "North West Region",
+      "shortName": "North West",
+      "districtIds": [
+        "3"
+      ],
+      "color": "#9b86cf",
+      "labelX": 208,
+      "labelY": 58,
+      "mapViewBox": "0 0 430 150",
+      "regionalLeaderId": "jeff-lance",
+      "counties": [
+        {
+          "id": "bay",
+          "name": "Bay",
+          "districtId": "3",
+          "regionName": "North West",
+          "areaLeaderName": "Brandon Welch",
+          "areaLeaderId": "brandon-welch"
+        },
+        {
+          "id": "calhoun",
+          "name": "Calhoun",
+          "districtId": "3",
+          "regionName": "North West",
+          "areaLeaderName": "Malcom Minchin",
+          "areaLeaderId": "malcom-minchin"
+        },
+        {
+          "id": "escambia",
+          "name": "Escambia",
+          "districtId": "3",
+          "regionName": "North West",
+          "areaLeaderName": "James Holland",
+          "areaLeaderId": "james-holland"
+        },
+        {
+          "id": "franklin",
+          "name": "Franklin",
+          "districtId": "3",
+          "regionName": "North West",
+          "areaLeaderName": "Brandon Welch",
+          "areaLeaderId": "brandon-welch"
+        },
+        {
+          "id": "gadsden",
+          "name": "Gadsden",
+          "districtId": "3",
+          "regionName": "North West",
+          "areaLeaderName": "Malcom Minchin",
+          "areaLeaderId": "malcom-minchin"
+        },
+        {
+          "id": "gulf",
+          "name": "Gulf",
+          "districtId": "3",
+          "regionName": "North West",
+          "areaLeaderName": "Brandon Welch",
+          "areaLeaderId": "brandon-welch"
+        },
+        {
+          "id": "holmes",
+          "name": "Holmes",
+          "districtId": "3",
+          "regionName": "North West",
+          "areaLeaderName": "Malcom Minchin",
+          "areaLeaderId": "malcom-minchin"
+        },
+        {
+          "id": "jackson",
+          "name": "Jackson",
+          "districtId": "3",
+          "regionName": "North West",
+          "areaLeaderName": "Malcom Minchin",
+          "areaLeaderId": "malcom-minchin"
+        },
+        {
+          "id": "jefferson",
+          "name": "Jefferson",
+          "districtId": "3",
+          "regionName": "North West",
+          "areaLeaderName": "Malcom Minchin",
+          "areaLeaderId": "malcom-minchin"
+        },
+        {
+          "id": "leon",
+          "name": "Leon",
+          "districtId": "3",
+          "regionName": "North West",
+          "areaLeaderName": "Malcom Minchin",
+          "areaLeaderId": "malcom-minchin"
+        },
+        {
+          "id": "liberty",
+          "name": "Liberty",
+          "districtId": "3",
+          "regionName": "North West",
+          "areaLeaderName": "Brandon Welch",
+          "areaLeaderId": "brandon-welch"
+        },
+        {
+          "id": "okaloosa",
+          "name": "Okaloosa",
+          "districtId": "3",
+          "regionName": "North West",
+          "areaLeaderName": "James Holland",
+          "areaLeaderId": "james-holland"
+        },
+        {
+          "id": "santa-rosa",
+          "name": "Santa Rosa",
+          "districtId": "3",
+          "regionName": "North West",
+          "areaLeaderName": "James Holland",
+          "areaLeaderId": "james-holland"
+        },
+        {
+          "id": "wakulla",
+          "name": "Wakulla",
+          "districtId": "3",
+          "regionName": "North West",
+          "areaLeaderName": "Brandon Welch",
+          "areaLeaderId": "brandon-welch"
+        },
+        {
+          "id": "walton",
+          "name": "Walton",
+          "districtId": "3",
+          "regionName": "North West",
+          "areaLeaderName": "Brandon Welch",
+          "areaLeaderId": "brandon-welch"
+        },
+        {
+          "id": "washington",
+          "name": "Washington",
+          "districtId": "3",
+          "regionName": "North West",
+          "areaLeaderName": "Malcom Minchin",
+          "areaLeaderId": "malcom-minchin"
+        }
+      ],
+      "services": [
+        {
+          "id": "d3-survey",
+          "key": "survey",
+          "name": "Survey",
+          "leaderId": "jeff-lance",
+          "iconKey": "survey",
+          "color": "#f28d3c",
+          "accentColor": "#f28d3c",
+          "description": "Regional survey coverage from the Regions table."
+        },
+        {
+          "id": "d3-sue",
+          "key": "sue",
+          "name": "SUE",
+          "leaderId": "ryan-grab",
+          "iconKey": "sue",
+          "color": "#8c63b6",
+          "accentColor": "#8c63b6",
+          "description": "SUE leader coverage: North West."
+        },
+        {
+          "id": "d3-lidar",
+          "key": "lidar",
+          "name": "LiDAR",
+          "leaderId": "bryant-king",
+          "iconKey": "lidar",
+          "color": "#6aa84f",
+          "accentColor": "#6aa84f",
+          "description": "LiDAR leader coverage derived from imported People rows."
+        },
+        {
+          "id": "d3-gis",
+          "key": "gis",
+          "name": "GIS",
+          "leaderId": "mark-brown",
+          "iconKey": "gis",
+          "color": "#2f80d6",
+          "accentColor": "#2f80d6",
+          "description": "GIS leader coverage derived from imported People rows."
+        }
+      ],
+      "notes": "FDOT District 3; counties and area leaders derived from imported data."
+    },
+    {
+      "id": "north-east",
+      "name": "North East Region",
+      "shortName": "North East",
+      "districtIds": [
+        "2"
+      ],
+      "color": "#6fa8dc",
+      "labelX": 510,
+      "labelY": 100,
+      "mapViewBox": "338 0 321 250",
+      "regionalLeaderId": "bill-faust",
+      "counties": [
+        {
+          "id": "alachua",
+          "name": "Alachua",
+          "districtId": "2",
+          "regionName": "North East",
+          "areaLeaderName": "Thomas Tracz",
+          "areaLeaderId": "thomas-tracz"
+        },
+        {
+          "id": "baker",
+          "name": "Baker",
+          "districtId": "2",
+          "regionName": "North East",
+          "areaLeaderName": "Bill Faust",
+          "areaLeaderId": "bill-faust"
+        },
+        {
+          "id": "bradford",
+          "name": "Bradford",
+          "districtId": "2",
+          "regionName": "North East",
+          "areaLeaderName": "Thomas Tracz",
+          "areaLeaderId": "thomas-tracz"
+        },
+        {
+          "id": "clay",
+          "name": "Clay",
+          "districtId": "2",
+          "regionName": "North East",
+          "areaLeaderName": "Thomas Tracz",
+          "areaLeaderId": "thomas-tracz"
+        },
+        {
+          "id": "columbia",
+          "name": "Columbia",
+          "districtId": "2",
+          "regionName": "North East",
+          "areaLeaderName": "Bill Faust",
+          "areaLeaderId": "bill-faust"
+        },
+        {
+          "id": "dixie",
+          "name": "Dixie",
+          "districtId": "2",
+          "regionName": "North East",
+          "areaLeaderName": "Thomas Tracz",
+          "areaLeaderId": "thomas-tracz"
+        },
+        {
+          "id": "duval",
+          "name": "Duval",
+          "districtId": "2",
+          "regionName": "North East",
+          "areaLeaderName": "Bill Faust",
+          "areaLeaderId": "bill-faust"
+        },
+        {
+          "id": "gilchrist",
+          "name": "Gilchrist",
+          "districtId": "2",
+          "regionName": "North East",
+          "areaLeaderName": "Thomas Tracz",
+          "areaLeaderId": "thomas-tracz"
+        },
+        {
+          "id": "hamilton",
+          "name": "Hamilton",
+          "districtId": "2",
+          "regionName": "North East",
+          "areaLeaderName": "Bill Faust",
+          "areaLeaderId": "bill-faust"
+        },
+        {
+          "id": "lafayette",
+          "name": "Lafayette",
+          "districtId": "2",
+          "regionName": "North East",
+          "areaLeaderName": "Bill Faust",
+          "areaLeaderId": "bill-faust"
+        },
+        {
+          "id": "levy",
+          "name": "Levy",
+          "districtId": "2",
+          "regionName": "North East",
+          "areaLeaderName": "Thomas Tracz",
+          "areaLeaderId": "thomas-tracz"
+        },
+        {
+          "id": "madison",
+          "name": "Madison",
+          "districtId": "2",
+          "regionName": "North East",
+          "areaLeaderName": "Bill Faust",
+          "areaLeaderId": "bill-faust"
+        },
+        {
+          "id": "nassau",
+          "name": "Nassau",
+          "districtId": "2",
+          "regionName": "North East",
+          "areaLeaderName": "Bill Faust",
+          "areaLeaderId": "bill-faust"
+        },
+        {
+          "id": "putnam",
+          "name": "Putnam",
+          "districtId": "2",
+          "regionName": "North East",
+          "areaLeaderName": "Pablo Ferrari",
+          "areaLeaderId": "pablo-ferrari"
+        },
+        {
+          "id": "st-johns",
+          "name": "St Johns",
+          "districtId": "2",
+          "regionName": "North East",
+          "areaLeaderName": "Pablo Ferrari",
+          "areaLeaderId": "pablo-ferrari"
+        },
+        {
+          "id": "suwannee",
+          "name": "Suwannee",
+          "districtId": "2",
+          "regionName": "North East",
+          "areaLeaderName": "Bill Faust",
+          "areaLeaderId": "bill-faust"
+        },
+        {
+          "id": "taylor",
+          "name": "Taylor",
+          "districtId": "2",
+          "regionName": "North East",
+          "areaLeaderName": "Thomas Tracz",
+          "areaLeaderId": "thomas-tracz"
+        },
+        {
+          "id": "union",
+          "name": "Union",
+          "districtId": "2",
+          "regionName": "North East",
+          "areaLeaderName": "Bill Faust",
+          "areaLeaderId": "bill-faust"
+        }
+      ],
+      "services": [
+        {
+          "id": "d2-survey",
+          "key": "survey",
+          "name": "Survey",
+          "leaderId": "bill-faust",
+          "iconKey": "survey",
+          "color": "#f28d3c",
+          "accentColor": "#f28d3c",
+          "description": "Regional survey coverage from the Regions table."
+        },
+        {
+          "id": "d2-sue",
+          "key": "sue",
+          "name": "SUE",
+          "leaderId": "albert-taylor",
+          "iconKey": "sue",
+          "color": "#8c63b6",
+          "accentColor": "#8c63b6",
+          "description": "SUE leader coverage: North East."
+        },
+        {
+          "id": "d2-lidar",
+          "key": "lidar",
+          "name": "LiDAR",
+          "leaderId": "bryant-king",
+          "iconKey": "lidar",
+          "color": "#6aa84f",
+          "accentColor": "#6aa84f",
+          "description": "LiDAR leader coverage derived from imported People rows."
+        },
+        {
+          "id": "d2-gis",
+          "key": "gis",
+          "name": "GIS",
+          "leaderId": "mark-brown",
+          "iconKey": "gis",
+          "color": "#2f80d6",
+          "accentColor": "#2f80d6",
+          "description": "GIS leader coverage derived from imported People rows."
+        }
+      ],
+      "notes": "FDOT District 2; counties and area leaders derived from imported data."
+    },
+    {
+      "id": "south-west",
+      "name": "South West Region",
+      "shortName": "South West",
+      "districtIds": [
+        "1",
+        "7"
+      ],
+      "color": "#9fbf84",
+      "labelX": 465,
+      "labelY": 365,
+      "mapViewBox": "335 145 320 445",
+      "regionalLeaderId": "brent-bass",
+      "counties": [
+        {
+          "id": "charlotte",
+          "name": "Charlotte",
+          "districtId": "1",
+          "regionName": "South West",
+          "areaLeaderName": "Bill Curtis",
+          "areaLeaderId": "bill-curtis"
+        },
+        {
+          "id": "citrus",
+          "name": "Citrus",
+          "districtId": "7",
+          "regionName": "South West",
+          "areaLeaderName": "David Charles",
+          "areaLeaderId": "david-charles"
+        },
+        {
+          "id": "collier",
+          "name": "Collier",
+          "districtId": "1",
+          "regionName": "South West",
+          "areaLeaderName": "Bill Curtis",
+          "areaLeaderId": "bill-curtis"
+        },
+        {
+          "id": "desoto",
+          "name": "DeSoto",
+          "districtId": "1",
+          "regionName": "South West",
+          "areaLeaderName": "Brent Bass",
+          "areaLeaderId": "brent-bass"
+        },
+        {
+          "id": "glades",
+          "name": "Glades",
+          "districtId": "1",
+          "regionName": "South West",
+          "areaLeaderName": "Bill Curtis",
+          "areaLeaderId": "bill-curtis"
+        },
+        {
+          "id": "hardee",
+          "name": "Hardee",
+          "districtId": "1",
+          "regionName": "South West",
+          "areaLeaderName": "Brent Bass",
+          "areaLeaderId": "brent-bass"
+        },
+        {
+          "id": "hendry",
+          "name": "Hendry",
+          "districtId": "1",
+          "regionName": "South West",
+          "areaLeaderName": "Bill Curtis",
+          "areaLeaderId": "bill-curtis"
+        },
+        {
+          "id": "hernando",
+          "name": "Hernando",
+          "districtId": "7",
+          "regionName": "South West",
+          "areaLeaderName": "David Charles",
+          "areaLeaderId": "david-charles"
+        },
+        {
+          "id": "highlands",
+          "name": "Highlands",
+          "districtId": "1",
+          "regionName": "South West",
+          "areaLeaderName": "Brent Bass",
+          "areaLeaderId": "brent-bass"
+        },
+        {
+          "id": "hillsborough",
+          "name": "Hillsborough",
+          "districtId": "7",
+          "regionName": "South West",
+          "areaLeaderName": "David Charles",
+          "areaLeaderId": "david-charles"
+        },
+        {
+          "id": "lee",
+          "name": "Lee",
+          "districtId": "1",
+          "regionName": "South West",
+          "areaLeaderName": "Bill Curtis",
+          "areaLeaderId": "bill-curtis"
+        },
+        {
+          "id": "manatee",
+          "name": "Manatee",
+          "districtId": "1",
+          "regionName": "South West",
+          "areaLeaderName": "Brent Bass",
+          "areaLeaderId": "brent-bass"
+        },
+        {
+          "id": "okeechobee",
+          "name": "Okeechobee",
+          "districtId": "1",
+          "regionName": "South West",
+          "areaLeaderName": "Brent Bass",
+          "areaLeaderId": "brent-bass"
+        },
+        {
+          "id": "pasco",
+          "name": "Pasco",
+          "districtId": "7",
+          "regionName": "South West",
+          "areaLeaderName": "David Charles",
+          "areaLeaderId": "david-charles"
+        },
+        {
+          "id": "pinellas",
+          "name": "Pinellas",
+          "districtId": "7",
+          "regionName": "South West",
+          "areaLeaderName": "David Charles",
+          "areaLeaderId": "david-charles"
+        },
+        {
+          "id": "polk",
+          "name": "Polk",
+          "districtId": "1",
+          "regionName": "South West",
+          "areaLeaderName": "Brent Bass",
+          "areaLeaderId": "brent-bass"
+        },
+        {
+          "id": "sarasota",
+          "name": "Sarasota",
+          "districtId": "1",
+          "regionName": "South West",
+          "areaLeaderName": "Brent Bass",
+          "areaLeaderId": "brent-bass"
+        }
+      ],
+      "services": [
+        {
+          "id": "d1-survey",
+          "key": "survey",
+          "name": "Survey",
+          "leaderId": "brent-bass",
+          "iconKey": "survey",
+          "color": "#f28d3c",
+          "accentColor": "#f28d3c",
+          "description": "Regional survey coverage from the Regions table."
+        },
+        {
+          "id": "d1-sue",
+          "key": "sue",
+          "name": "SUE",
+          "leaderId": "tom-yocum",
+          "iconKey": "sue",
+          "color": "#8c63b6",
+          "accentColor": "#8c63b6",
+          "description": "SUE leader coverage: South West."
+        },
+        {
+          "id": "d1-lidar",
+          "key": "lidar",
+          "name": "LiDAR",
+          "leaderId": "bryant-king",
+          "iconKey": "lidar",
+          "color": "#6aa84f",
+          "accentColor": "#6aa84f",
+          "description": "LiDAR leader coverage derived from imported People rows."
+        },
+        {
+          "id": "d1-gis",
+          "key": "gis",
+          "name": "GIS",
+          "leaderId": "mark-brown",
+          "iconKey": "gis",
+          "color": "#2f80d6",
+          "accentColor": "#2f80d6",
+          "description": "GIS leader coverage derived from imported People rows."
+        }
+      ],
+      "notes": "FDOT Districts 1 & 7; counties and area leaders derived from imported data."
+    },
+    {
+      "id": "east-central",
+      "name": "South East Region",
+      "shortName": "South East",
+      "districtIds": [
+        "4",
+        "5"
+      ],
+      "color": "#e6a36b",
+      "labelX": 610,
+      "labelY": 365,
+      "mapViewBox": "464 116 256 474",
+      "regionalLeaderId": "frank-lopez",
+      "counties": [
+        {
+          "id": "brevard",
+          "name": "Brevard",
+          "districtId": "5",
+          "regionName": "South East",
+          "areaLeaderName": "Barry Cabaniss",
+          "areaLeaderId": "barry-cabaniss"
+        },
+        {
+          "id": "broward",
+          "name": "Broward",
+          "districtId": "4",
+          "regionName": "South East",
+          "areaLeaderName": "Maria Barboza",
+          "areaLeaderId": "maria-barboza"
+        },
+        {
+          "id": "flagler",
+          "name": "Flagler",
+          "districtId": "5",
+          "regionName": "South East",
+          "areaLeaderName": "Harland Fogle",
+          "areaLeaderId": "harland-fogle"
+        },
+        {
+          "id": "indian-river",
+          "name": "Indian River",
+          "districtId": "4",
+          "regionName": "South East",
+          "areaLeaderName": "Maria Barboza",
+          "areaLeaderId": "maria-barboza"
+        },
+        {
+          "id": "lake",
+          "name": "Lake",
+          "districtId": "5",
+          "regionName": "South East",
+          "areaLeaderName": "Gabriel Colon",
+          "areaLeaderId": "gabriel-colon"
+        },
+        {
+          "id": "marion",
+          "name": "Marion",
+          "districtId": "5",
+          "regionName": "South East",
+          "areaLeaderName": "Frank Lopez",
+          "areaLeaderId": "frank-lopez"
+        },
+        {
+          "id": "martin",
+          "name": "Martin",
+          "districtId": "4",
+          "regionName": "South East",
+          "areaLeaderName": "Maria Barboza",
+          "areaLeaderId": "maria-barboza"
+        },
+        {
+          "id": "orange",
+          "name": "Orange",
+          "districtId": "5",
+          "regionName": "South East",
+          "areaLeaderName": "Frank Lopez",
+          "areaLeaderId": "frank-lopez"
+        },
+        {
+          "id": "osceola",
+          "name": "Osceola",
+          "districtId": "5",
+          "regionName": "South East",
+          "areaLeaderName": "Frank Lopez",
+          "areaLeaderId": "frank-lopez"
+        },
+        {
+          "id": "palm-beach",
+          "name": "Palm Beach",
+          "districtId": "4",
+          "regionName": "South East",
+          "areaLeaderName": "Maria Barboza",
+          "areaLeaderId": "maria-barboza"
+        },
+        {
+          "id": "seminole",
+          "name": "Seminole",
+          "districtId": "5",
+          "regionName": "South East",
+          "areaLeaderName": "Harland Fogle",
+          "areaLeaderId": "harland-fogle"
+        },
+        {
+          "id": "st-lucie",
+          "name": "St Lucie",
+          "districtId": "4",
+          "regionName": "South East",
+          "areaLeaderName": "Maria Barboza",
+          "areaLeaderId": "maria-barboza"
+        },
+        {
+          "id": "sumter",
+          "name": "Sumter",
+          "districtId": "5",
+          "regionName": "South East",
+          "areaLeaderName": "Frank Lopez",
+          "areaLeaderId": "frank-lopez"
+        },
+        {
+          "id": "volusia",
+          "name": "Volusia",
+          "districtId": "5",
+          "regionName": "South East",
+          "areaLeaderName": "Harland Fogle",
+          "areaLeaderId": "harland-fogle"
+        }
+      ],
+      "services": [
+        {
+          "id": "d4-survey",
+          "key": "survey",
+          "name": "Survey",
+          "leaderId": "frank-lopez",
+          "iconKey": "survey",
+          "color": "#f28d3c",
+          "accentColor": "#f28d3c",
+          "description": "Regional survey coverage from the Regions table."
+        },
+        {
+          "id": "d4-sue",
+          "key": "sue",
+          "name": "SUE",
+          "leaderId": "charles-heise",
+          "iconKey": "sue",
+          "color": "#8c63b6",
+          "accentColor": "#8c63b6",
+          "description": "SUE leader coverage: South East."
+        },
+        {
+          "id": "d4-lidar",
+          "key": "lidar",
+          "name": "LiDAR",
+          "leaderId": "bryant-king",
+          "iconKey": "lidar",
+          "color": "#6aa84f",
+          "accentColor": "#6aa84f",
+          "description": "LiDAR leader coverage derived from imported People rows."
+        },
+        {
+          "id": "d4-gis",
+          "key": "gis",
+          "name": "GIS",
+          "leaderId": "mark-brown",
+          "iconKey": "gis",
+          "color": "#2f80d6",
+          "accentColor": "#2f80d6",
+          "description": "GIS leader coverage derived from imported People rows."
+        },
+        {
+          "id": "d4-uas",
+          "key": "uas",
+          "name": "UAS",
+          "leaderId": "ryan-ianacone",
+          "iconKey": "uas",
+          "color": "#0e9f6e",
+          "accentColor": "#0e9f6e",
+          "description": "UAS leader coverage derived from imported People rows."
+        }
+      ],
+      "notes": "FDOT Districts 4 & 5; counties and area leaders derived from imported data."
+    },
+    {
+      "id": "south",
+      "name": "South Region",
+      "shortName": "South",
+      "districtIds": [
+        "6"
+      ],
+      "color": "#79bdc4",
+      "labelX": 615,
+      "labelY": 570,
+      "mapViewBox": "482 468 238 182",
+      "regionalLeaderId": "district-6-lead-tbd",
+      "counties": [
+        {
+          "id": "miami-dade",
+          "name": "Miami-Dade",
+          "districtId": "6",
+          "regionName": "South",
+          "areaLeaderName": "TBD",
+          "areaLeaderId": "area-leader-tbd"
+        },
+        {
+          "id": "monroe",
+          "name": "Monroe",
+          "districtId": "6",
+          "regionName": "South",
+          "areaLeaderName": "TBD",
+          "areaLeaderId": "area-leader-tbd"
+        }
+      ],
+      "services": [
+        {
+          "id": "d6-survey",
+          "key": "survey",
+          "name": "Survey",
+          "leaderId": "district-6-lead-tbd",
+          "iconKey": "survey",
+          "color": "#f28d3c",
+          "accentColor": "#f28d3c",
+          "description": "Regional survey coverage from the Regions table."
+        },
+        {
+          "id": "d6-lidar",
+          "key": "lidar",
+          "name": "LiDAR",
+          "leaderId": "bryant-king",
+          "iconKey": "lidar",
+          "color": "#6aa84f",
+          "accentColor": "#6aa84f",
+          "description": "LiDAR leader coverage derived from imported People rows."
+        },
+        {
+          "id": "d6-gis",
+          "key": "gis",
+          "name": "GIS",
+          "leaderId": "mark-brown",
+          "iconKey": "gis",
+          "color": "#2f80d6",
+          "accentColor": "#2f80d6",
+          "description": "GIS leader coverage derived from imported People rows."
+        }
+      ],
+      "notes": "FDOT District 6; counties and area leaders derived from imported data."
+    },
+    {
+      "id": "north-carolina",
+      "name": "North Carolina",
+      "shortName": "North Carolina",
+      "districtIds": [
+        "NC-1"
+      ],
+      "color": "#536f8f",
+      "labelX": 600,
+      "labelY": 120,
+      "mapViewBox": "0 0 720 650",
+      "regionalLeaderId": "august-thick",
+      "counties": [
+        {
+          "id": "raleigh",
+          "name": "Raleigh",
+          "districtId": "NC-1",
+          "regionName": "North Carolina",
+          "areaLeaderId": "aj-perkinson",
+          "areaLeaderName": "AJ Perkinson"
+        },
+        {
+          "id": "troutman",
+          "name": "Troutman",
+          "districtId": "NC-1",
+          "regionName": "North Carolina",
+          "areaLeaderId": "dylan-atkins",
+          "areaLeaderName": "Dylan Atkins"
+        }
+      ],
+      "services": [
+        {
+          "id": "dNC-1-survey",
+          "key": "survey",
+          "name": "Survey",
+          "leaderId": "august-thick",
+          "iconKey": "survey",
+          "color": "#f28d3c",
+          "accentColor": "#f28d3c",
+          "description": "Regional survey coverage from the Regions table."
+        },
+        {
+          "id": "dNC-1-sue",
+          "key": "sue",
+          "name": "SUE",
+          "leaderId": "charlie-smith",
+          "iconKey": "sue",
+          "color": "#8c63b6",
+          "accentColor": "#8c63b6",
+          "description": "SUE leader coverage: North Carolina."
+        },
+        {
+          "id": "dNC-1-lidar",
+          "key": "lidar",
+          "name": "LiDAR",
+          "leaderId": "bryant-king",
+          "iconKey": "lidar",
+          "color": "#6aa84f",
+          "accentColor": "#6aa84f",
+          "description": "LiDAR leader coverage derived from imported People rows."
+        },
+        {
+          "id": "dNC-1-gis",
+          "key": "gis",
+          "name": "GIS",
+          "leaderId": "mark-brown",
+          "iconKey": "gis",
+          "color": "#2f80d6",
+          "accentColor": "#2f80d6",
+          "description": "GIS leader coverage derived from imported People rows."
+        }
+      ],
+      "notes": "North Carolina; area leaders derived from imported People rows."
+    }
+  ]
+}
