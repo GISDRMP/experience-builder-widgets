@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="DRMP FDOT Service Directory">
-  <defs><linearGradient id="g" x1="8" y1="8" x2="56" y2="56" gradientUnits="userSpaceOnUse"><stop stop-color="#111827"/><stop offset="1" stop-color="#991b1b"/></linearGradient></defs>
-  <rect x="4" y="4" width="56" height="56" rx="14" fill="url(#g)"/>
-  <path d="M18 40V20h9c6 0 10 4 10 10s-4 10-10 10h-9Zm6-5h3c3 0 5-2 5-5s-2-5-5-5h-3v10Zm17 5V20h6v20h-6Z" fill="#fff"/>
-</svg>
