@@ -1,0 +1,14 @@
+{
+  "name": "clearance-hole-sketch",
+  "label": "Clearance Hole Sketch",
+  "type": "widget",
+  "version": "2.1.0",
+  "exbVersion": "1.17.0",
+  "author": "William Lewis - DRMP",
+  "description": "Create, exchange, and attach editable Fabric.js mast-arm clearance-hole sketches.",
+  "copyright": "",
+  "license": "",
+  "properties": {},
+  "dependency": ["jimu-arcgis"],
+  "translatedLocales": ["en"]
+}
