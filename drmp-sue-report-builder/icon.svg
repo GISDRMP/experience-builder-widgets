@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="DRMP SUE Report Builder">
+  <rect width="64" height="64" rx="10" fill="#ffffff"/>
+  <path d="M8 8h48v48H8z" fill="none" stroke="#c8102e" stroke-width="4"/>
+  <path d="M18 18h28v8H18zm0 13h28v5H18zm0 10h18v5H18z" fill="#202020"/>
+  <circle cx="47" cy="47" r="8" fill="#c8102e"/>
+  <path d="M47 42v10m-5-5h10" stroke="#fff" stroke-width="2.5"/>
+</svg>

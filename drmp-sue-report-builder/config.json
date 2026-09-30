@@ -1,0 +1,120 @@
+{
+  "primaryDataSourceId": "",
+  "relatedDataSourceIds": [],
+  "secondaryPhotoDataSourceIds": [],
+  "searchIdentifierFields": [],
+  "displayField": "",
+  "enabledTemplateIds": [
+    "drmp-vacuum-excavation",
+    "drmp-mast-arm-exploratory"
+  ],
+  "defaultTemplateId": "drmp-vacuum-excavation",
+  "fieldMappings": {
+    "drmp-vacuum-excavation": {},
+    "drmp-mast-arm-exploratory": {}
+  },
+  "importedTemplates": [],
+  "relatedDataSources": [],
+  "attachments": {
+    "enabled": true,
+    "includePrimaryAttachments": true,
+    "includeRelatedAttachments": false,
+    "allowedMimeTypes": [
+      "image/jpeg",
+      "image/png",
+      "image/gif",
+      "image/bmp",
+      "image/webp"
+    ],
+    "maximumLocalFileSizeMb": 30,
+    "maximumAttachmentCount": 100
+  },
+  "geometry": {
+    "outputWkid": null,
+    "coordinatePrecision": 2,
+    "unitSystem": "us-foot",
+    "representativePoint": "centroid"
+  },
+  "photos": {
+    "defaultFitMode": "contain",
+    "exportQuality": 0.88,
+    "maximumExportDimension": 2400,
+    "filenameRules": [
+      {
+        "id": "preliminary",
+        "contains": "pre",
+        "categoryId": "preliminary-surface",
+        "enabled": true
+      },
+      {
+        "id": "utility",
+        "contains": "utility",
+        "categoryId": "utility-information",
+        "enabled": true
+      },
+      {
+        "id": "rod",
+        "contains": "rod",
+        "categoryId": "level-rod-measurement",
+        "enabled": true
+      },
+      {
+        "id": "repair",
+        "contains": "repair",
+        "categoryId": "repaired-surface",
+        "enabled": true
+      }
+    ]
+  },
+  "locationMap": {
+    "defaultCaptureMode": "selected-feature",
+    "bufferDistance": 150,
+    "bufferUnit": "feet",
+    "imageWidth": 1600,
+    "imageHeight": 900,
+    "imageQuality": 0.9,
+    "includeNorthArrow": true,
+    "includeMarker": true,
+    "includeCoordinateLabel": false,
+    "markerColor": "#2f80ed"
+  },
+  "crossSection": {
+    "defaultBaseSketch": "mast-cross",
+    "showGrid": true,
+    "snapToGrid": true,
+    "gridSpacing": 20,
+    "defaultUnits": "ft",
+    "defaultStroke": "#111111",
+    "defaultFill": "#ffffff",
+    "defaultTextColor": "#111111"
+  },
+  "branding": {
+    "logoUrl": "",
+    "organizationName": "DRMP",
+    "address": "941 Lake Baldwin Lane, Orlando, FL 32814",
+    "phone": "+1 407.896.0594",
+    "website": "www.drmp.com",
+    "footerOfficesText": "Orlando FL, Boca Raton FL, Chipley FL, Gainesville FL, Fort Myers FL, Jacksonville FL, Lakeland FL, Melbourne FL, Panama City FL, Pensacola FL, Tampa FL, Atlanta GA, Charlotte NC, Raleigh NC",
+    "primaryColor": "#c8102e",
+    "approverLabel": "Approver",
+    "qaLabel": "QA/QC Final Approver"
+  },
+  "drafts": {
+    "enabled": true,
+    "allowJsonImportExport": true,
+    "useIndexedDbForLocalPhotos": true,
+    "promptBeforeRestore": true
+  },
+  "writeBack": {
+    "allowAttributeWriteBack": false,
+    "allowAttachmentWriteBack": false,
+    "requireConfirmation": true
+  },
+  "advanced": {
+    "debugLogging": false,
+    "maximumTotalImageMemoryMb": 250,
+    "htmlFilenamePattern": "{projectName}_{testHoleRequestNumber}_{holeNumber}_{date}.html",
+    "blankValueDefault": "N/A"
+  },
+  "mockMode": false
+}

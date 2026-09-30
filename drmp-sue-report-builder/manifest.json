@@ -1,0 +1,22 @@
+{
+  "name": "drmp-sue-report-builder",
+  "label": "DRMP SUE Report Builder",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.17.0",
+  "author": "DRMP, Inc.",
+  "description": "Build configurable DRMP SUE vacuum-excavation and mast-arm exploratory reports from selected ArcGIS records, attachments, map captures, and template-provided location sketches.",
+  "copyright": "Copyright DRMP, Inc.",
+  "dependency": "jimu-arcgis",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasConfig": true
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 760,
+    "height": 720
+  }
+}
