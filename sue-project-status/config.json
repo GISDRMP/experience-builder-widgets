@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "title": "SUE Project Status",
+  "themeMode": "light",
+  "maxFileMb": 10,
+  "maxProjects": 10000,
+  "percentageMode": "auto",
+  "dateOrder": "MDY",
+  "columns": {
+    "projectId": "Project ID",
+    "projectName": "Project Name",
+    "overallStatus": "Overall Status",
+    "assignedAnalyst": "Assigned Analyst",
+    "qlb": "QLB Progress",
+    "qla": "EH Progress",
+    "vvh": "VVH Progress",
+    "survey": "Survey Progress",
+    "currentPhase": "Current Phase",
+    "nextMilestone": "Next Milestone",
+    "targetDate": "Target Date",
+    "waitingOn": "Waiting On",
+    "latestSubmittal": "Latest Submittal",
+    "lastUpdate": "Last Update",
+    "pmNotes": "PM Notes"
+  }
+}
