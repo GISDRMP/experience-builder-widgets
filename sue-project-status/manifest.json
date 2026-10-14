@@ -1,0 +1,19 @@
+{
+  "name": "sue-project-status",
+  "label": "SUE Project Status",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.17.0",
+  "author": "DRMP",
+  "description": "Excel and CSV project-status dashboard with independent QLB, EH, VVH and Survey metrics and optional organization-shared ArcGIS workbook storage.",
+  "copyright": "",
+  "license": "",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 1440,
+    "height": 900
+  }
+}
