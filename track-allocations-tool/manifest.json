@@ -1,0 +1,25 @@
+{
+  "name": "track-allocations-tool",
+  "label": "Track Allocations tool",
+  "type": "widget",
+  "version": "1.3.8",
+  "exbVersion": "1.17.0",
+  "author": "OpenAI / Ravneet Kathuria",
+  "description": "Map-centric Track Allocations tool for exploring receiving-site student allocations by Elementary, Middle, and High school levels. Loads the dashboard web map, matches schools by ID, summarizes 1st choice, 2nd choice, 3rd choice, and overflow buckets, zooms to selected schools, lists related developments, and exports selected-school or all-school CSV reports.",
+  "copyright": "",
+  "license": "",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 1540,
+    "height": 920
+  },
+  "settingDependency": [
+    "jimu-arcgis"
+  ]
+}
