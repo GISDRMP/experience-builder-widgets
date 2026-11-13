@@ -1,0 +1,18 @@
+{
+  "webMapItemId": "4f77ee1a53a54dc5b6ea35d791ca04e2",
+  "allocationLayerId": "19bb7bde48d-layer-6",
+  "dashboardTableItemId": "6daad4fb44774dd8af3df6f48c351a7f",
+  "portalUrl": "",
+  "defaultSchoolLevel": "high",
+  "pageSize": 2000,
+  "selectionMode": "selected-or-extent",
+  "includeGeneratedDate": true,
+  "autoFilterTemplatesBySelection": true,
+  "autoRefreshSelection": true,
+  "includeMapPreview": true,
+  "focusMapPreviewOnSelection": false,
+  "useBrowserPdfExport": true,
+  "kpiMetrics": [],
+  "templateKpiMetrics": [],
+  "templateLayerMappings": []
+}
